@@ -1,1 +1,220 @@
-[]
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "Taveron",
+    "name": "Increased Stack"
+  },
+  {
+    "author": "RimWorld Multiplayer Team",
+    "name": "Multiplayer",
+    "steamId": "1752864297",
+    "version": "0.1"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimefeller",
+    "steamId": "1321849735",
+    "version": "1.2.944"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully"
+  },
+  {
+    "author": "Ruyan",
+    "name": "Right Tool: Rebalanced"
+  },
+  {
+    "author": "PinoChemicali",
+    "name": "More Trade Ships"
+  },
+  {
+    "author": "BananaBoatBoy and Neceros",
+    "name": "Growable Neutroamine"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "8.0.1"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "",
+    "version": "5.0.1.10"
+  },
+  {
+    "author": "InfinitySamurai",
+    "name": "RimConnect",
+    "steamId": "1880784338",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots"
+  },
+  {
+    "author": "Alaestor",
+    "name": "Misc. Robots++"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry 1.1",
+    "steamId": "2007576583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics"
+  },
+  {
+    "author": "NotooShabby",
+    "name": "Awesome Inventory",
+    "steamId": "2050289408",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.0.4.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Power++",
+    "steamId": "1771402217",
+    "version": "1.7.11"
+  },
+  {
+    "author": "fridgeBaron",
+    "name": "Immortals",
+    "steamId": "1984905966",
+    "version": "0.0.2.0"
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Elite Archotech"
+  },
+  {
+    "author": "Burnt",
+    "name": "Archotechnology and Archotech Bionics Expanded"
+  },
+  {
+    "author": "Teok25",
+    "name": "Archotech Expanded Prosthetics"
+  },
+  {
+    "author": "sulusdacor, james76543, Meltup",
+    "name": "Advanced Power Plus"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Alien Vs Predator",
+    "steamId": "2034103876",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.14"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul"
+  },
+  {
+    "author": "Biscuit",
+    "name": "Archotech+",
+    "steamId": "2010967585",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LadyElizabeth",
+    "name": "Pawn Badge - Brotherhood of Steel Ranks"
+  },
+  {
+    "author": "Updated by Saucy_Pigeon",
+    "name": "Pawn Badge Fan Fork",
+    "steamId": "2112663412",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.2.768"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot"
+  }
+]

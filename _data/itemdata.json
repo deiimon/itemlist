@@ -1,0 +1,6182 @@
+{
+  "DeathAcidifier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Steel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RTFTJ_ToolbeltAdv": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "Elk": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Alphabeaver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Alpaca": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "OrbitalTargeterBombardment": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Ambrosia": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "HoopstoneRing": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "CochlearImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Heater": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Bow_Short": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Bow_Great": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Bow_Recurve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TrapIED_Firefoam": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TrapSpike": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TrapIED_Smoke": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TrapIED_AntigrainWarhead": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TrapIED_EMP": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TrapIED_HighExplosive": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TrapIED_Incendiary": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_PowerArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_PlateArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_ArmorRecon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ToolCabinet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RawRice": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Donkey": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Autoclave": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "RTFTJ_Autohammer": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "Ostrich": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RTFTJ_HandAxe": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "RawBerries": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "OrbitalTradeBeacon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "HandTailoringBench": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ElectricTailoringBench": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SimpleResearchBench": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Stool": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "FermentingBarrel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SmokeleafJoint": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RawPotatoes": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Battery": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Bison": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BlocksSlate": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BlocksSandstone": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BlocksLimestone": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BlocksGranite": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BlocksMarble": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BionicArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ArchotechArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SimpleProstheticArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Yayo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "DeepDrill": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Boomalope": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Goat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "DiningChair": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "AnimalSleepingBox": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_FlakPants": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_Pants": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Bed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "DoubleBed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "HospitalBed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RoyalBed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "AnimalBed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_CollarShirt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_BasicShirt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_InfernoCannon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_AdvancedHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_PowerArmorHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_ArmorHelmetRecon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_PsychicFoilHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_SimpleHelmet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Capybara": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Caribou": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Cow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Elk": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Alphabeaver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Alpaca": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Donkey": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Cassowary": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Bison": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Boomalope": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Goat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Capybara": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Caribou": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Horse": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Deer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Chinchilla": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Cobra": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Dromedary": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Elephant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Squirrel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Chicken": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Cat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Gazelle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Raccoon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Husky": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Yak": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Ibex": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Iguana": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Megaspider": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_LabradorRetriever": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Hare": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Lynx": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Wolf_Timber": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Monkey": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Megasloth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Muffalo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Sheep": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Panther": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Duck": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Turkey": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_GuineaPig": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Cougar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Boomrat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Rat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Rhinoceros": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Tortoise": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Thrumbo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Bear_Grizzly": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Warg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_YorkshireTerrier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Human": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Pig": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_Parka": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Cassowary": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "GlowPod": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Horse": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "VanometricPowerCell": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Beer": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Brewery": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Deer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "PsychiteTea": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RTFTJ_Chainsaw": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "Apparel_BowlerHat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_CowboyHat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "FuelPowerplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "ChemfuelHopper": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "ChemfuelSiphon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "ThrumboHorn": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Chinchilla": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Chocolate": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_SmokepopBelt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_ShieldBelt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Cobra": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_TribalHeaddress": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Bedroll": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BedrollDouble": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_FlakVest": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BionicSpine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Chemfuel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Dresser": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ComponentIndustrial": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ComponentSpacer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeMolotov": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Heart": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BionicHeart": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SimpleProstheticHeart": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Dog": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Elephant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Rhinoceros": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Light": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Plain": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "WakeUp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "OrbitalTargeterPowerBeam": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "FirefoamPopper": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RTFTJ_Drill": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "Dromedary": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Elephant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Emu": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "PsychicEmanator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SculptureGrand": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SculptureLarge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SculptureSmall": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_LongSword": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Spelopede": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_PumpShotgun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_ChainShotgun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_BoltActionRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Squirrel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BionicStomach": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Knife": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Hay": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Synthread": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Liver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Joywire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "DevilstrandCloth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Flake": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "FueledStove": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ElectricStove": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "PsychoidLeaves": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SmokeleafLeaves": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "FueledSmithy": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ElectricSmithy": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ElectricSmelter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RawAgave": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RawFungus": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_Duster": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Chicken": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Goose": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "PowerClaw": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Cat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gazelle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RimFridge_Refrigerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] RimFridge",
+    "QuantityLimit": -1
+  },
+  "RimFridge_WallRefrigerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] RimFridge",
+    "QuantityLimit": -1
+  },
+  "InsectJelly": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TornadoGenerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Gladius": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeFrag": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Weapon_GrenadeEMP": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Raccoon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RTFTJ_Hammer": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "Hyperweave": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Husky": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "HyperweaveRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "Yak": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Ibex": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Iguana": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Ikwa": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Painstopper": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Jade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_Jacket": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_FlakJacket": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "WildBoar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "WoolAlpaca": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "WoolBison": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "WoolMegasloth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "WoolMuffalo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "DrugLab": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "LabradorRetriever": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SunLamp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Spear": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_ChargeLance": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_PsychicShockLance": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_PsychicInsanityLance": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_DoomsdayRocket": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_TripleRocket": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_SmokeLauncher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_IncendiaryLauncher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_EmpLauncher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Pila": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Hare": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Snowhare": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Milk": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Lynx": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Wolf_Arctic": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Wolf_Timber": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Luciferium": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "StandingLamp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "StandingLamp_Blue": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "StandingLamp_Green": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "StandingLamp_Red": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RawHops": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Mace": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Monkey": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "WoodLog": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_WarMask": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MedicineIndustrial": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MedicineUltratech": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MedicineHerbal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Megascarab": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Megasloth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Megaspider": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Table1x2c": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Table2x2c": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Table2x4c": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Table3x3c": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TableButcher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BilliardsTable": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TableStonecutter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EndTable": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TableSculpting": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "PokerTable": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TableMachining": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ChessTable": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_LMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RawCorn": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RimFridge_SingleRefrigerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] RimFridge",
+    "QuantityLimit": -1
+  },
+  "RimFridge_SingleWallRefrigerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] RimFridge",
+    "QuantityLimit": -1
+  },
+  "Gun_Minigun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Turret_MiniTurret": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "VitalsMonitor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Turret_Mortar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Wort": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Muffalo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MultiAnalyzer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "NapalmBomb": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "NapalmRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "Shell_Napalm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "Neutroamine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "NeutroamineRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "AIPersonaCore": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TechprofSubpersonaCore": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Shell_AntigrainWarhead": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BionicEye": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ArchotechEye": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BionicEar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gold": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Sheep": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggOstrichFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggCassowaryFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggCobraFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggEmuFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggChickenFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggChickenUnfertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggGooseFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggGooseUnfertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggIguanaFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggDuckFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggDuckUnfertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggTurkeyFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "EggTortoiseFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Cloth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Panther": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Duck": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Bluefur": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Camel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Chinchilla": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Wolf": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Panthera": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Bird": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Pig": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_GuineaPig": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Fox": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Lizard": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Thrumbo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Bear": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Human": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Leather_Heavy": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "WoolSheep": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Pemmican": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Penoxycyline": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "BionicLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ArchotechLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SimpleProstheticLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Turkey": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RTFTJ_Pickaxe": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "HorseshoesPin": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Builder_I": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "Gun_Autopistol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Plasteel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Armchair": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Pig": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "GuineaPig": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Club": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Silver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Shelf": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ElephantTusk": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Shell_Firefoam": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Shell_HighExplosive": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Shell_Smoke": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Shell_Incendiary": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Shell_EMP": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Lung": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "PsychicSoothePulser": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "PsychicAnimalPulser": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Cougar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Kibble": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Fox_Fennec": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Meat_Fox_Fennec": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Fox_Arctic": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Fox_Red": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Boomrat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Rat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "InfiniteChemreactor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MealFine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MealNutrientPaste": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MealSurvivalPack": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MealLavish": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MealSimple": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RefineryLoadingBay": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "RimFridge_QuadRefrigerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[KV] RimFridge",
+    "QuantityLimit": -1
+  },
+  "Leather_Patch": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "ResourceConsole": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "Gun_Revolver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_AssaultRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_ChargeRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_SniperRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Kidney": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Rhinoceros": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MechSerumHealer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MechSerumResurrector": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RTFTJ_Neo_Pick": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "RTFTJ_Neo_Shovel": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "Gun_MachinePistol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Gun_HeavySMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "GoJuice": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "SynthamideRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "SynthreadRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "SynthyleneRefiner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "GameOfUrBoard": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Tortoise": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Telescope": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "MegascreenTelevision": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "FlatscreenTelevision": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "TubeTelevision": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Thrumbo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RTFTJToolBench": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "RTFTJ_Toolbelt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Right Tool: Rebalanced",
+    "QuantityLimit": -1
+  },
+  "Apparel_Tuque": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Animals": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Artistic": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Shooting": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Construction": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Melee": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Cooking": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Crafting": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Intellectual": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Medicine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Mining": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Plants": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Neurotrainer_Social": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "UncuredPlasteel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "UncuredComposite": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "Uranium": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Urn": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Bear_Grizzly": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Bear_Polar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Cow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "PlantPot": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_TribalA": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Apparel_WarVeil": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "Warg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "YorkshireTerrier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Core",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Builder_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Builder_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Builder_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Builder_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Cleaner_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Cleaner_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Cleaner_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Cleaner_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Crafter_I": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Crafter_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Crafter_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Crafter_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Crafter_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_ER_I": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_ER_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_ER_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_ER_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_ER_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Cleaner": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Hauler_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Hauler_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Hauler_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Hauler_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Kitchen_I": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Kitchen_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Kitchen_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Kitchen_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Kitchen_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_RechargeStation_Omni_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Component": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Matrix_IV": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Matrix_V": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Matrix_II": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Matrix_III": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "RPP_Matrix_I": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "Table_RPP_RoboticsBench": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "AIRobot_RechargeStation_Hauler": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Robots++",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightAzure": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightBlue": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightChartreuse": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightCyan": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightGreen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightMagenta": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightOrange": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightRed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightRose": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightSpringGreen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightViolet": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallLightYellow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "Lighting_MURWallSunLight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Wall Light",
+    "QuantityLimit": -1
+  },
+  "TableAnimalProsthetics": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "BionicArmAnimal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "AnimalBrainStimulator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "EarAnimalBionic": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "BionicEyeAnimal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "BionicAnimalHeart": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "JawAnimalBionic": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "BionicAnimalKidney": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "BionicLegAnimal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "BionicAnimalLiver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "BionicAnimalLung": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "SpineAnimalBionic": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "BionicAnimalStomach": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_88mod4P": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "EarAnimalSimple": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "JawAnimalSimple": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "NoseAnimalSimple": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "SpineAnimalSimple": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "SimpleProstheticArmAnimal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "SimpleProstheticLegAnimal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ProstheticTailAnimal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "A Dog Said... Animal Prosthetics",
+    "QuantityLimit": -1
+  },
+  "AdvArchotechArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "AdvancedArchotechArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "AdvArchotechLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "AdvancedArchotechLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "AdvVano": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "AvP_XenomorphCryptosleepCasket": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AntiMatter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechAIAssistant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechBioadapter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech+",
+    "QuantityLimit": -1
+  },
+  "ArchotechBladeArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechBrainMelder": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechBrainStimulant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechChargeLance": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechChargeRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechCortex": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech+",
+    "QuantityLimit": -1
+  },
+  "ArchotechDeathClaw": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechDenture": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechEar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechHeart": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechJoywire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechKidney": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechLiver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechLung": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "MedicineArchotech": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechMembrane": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechObliterator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechPainStopper": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechPelvis": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechPersonaCore": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechPowerArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechRegenerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech+",
+    "QuantityLimit": -1
+  },
+  "ArchotechShieldBelt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechSpine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechStomach": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded Prosthetics",
+    "QuantityLimit": -1
+  },
+  "ArchotechSubdermalArmor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech+",
+    "QuantityLimit": -1
+  },
+  "ArchotechwoundRegenerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "AvP_Synthetic_Skin": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AIEBigVanometricPowerCell": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "Meat_AvP_Xenomorph_Neomorph": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "Meat_AvP_Rhynth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "Meat_AvP_Synth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "Meat_AvP_Alien_Yautja": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Melee_Combistaff": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_BioMaskElite": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_ChestplateElite": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Apparel_Jumpsuit_Engineer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_BioMaskFalconer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Equipment_HeadMountedSight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_HealthShard": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Equipment_Gauntlet_TOGGLEDEF_LH": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Equipment_GauntletLong_TOGGLEDEF_LH": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Equipment_GauntletLong_TOGGLEDEF_RH": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Equipment_Gauntlet_TOGGLEDEF_RH": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Equipment_GauntletShort_TOGGLEDEF_LH": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Equipment_GauntletShort_TOGGLEDEF_RH": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "InfiniteAntiReactor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "InfiniteGoldReactor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "InfinitePlasteelReactor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "InfiniteSilverReactor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "InfiniteSteelReactor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Headgear_M10PAttern": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_M240Incinerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_M240A2Incinerator_Heavy": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Armour_M3Pattern": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_M37A2S": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_M39SMG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_M41APR": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_M41BPR": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_M42ASR": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_M4A3P": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_M4A4P": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_M5RPG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Armour_M56CombatHarness": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_OperatorGear": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Gun_M56SmartGun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_MaintenanceJack": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Apparel_Jumpsuit_Medical": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Headgear_Cap": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Gun_Needler": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_BioMaskOrnate": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_ChestplateOrnate": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "pipelineValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Gun_Blaster": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "ARKPPP_WirelessPortablePowerReceptor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Power++",
+    "QuantityLimit": -1
+  },
+  "ARKPPP_LocalWirelessPortablePowerEmitter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Power++",
+    "QuantityLimit": -1
+  },
+  "AvP_Rhynth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Leather_Rhynth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Equipment_PlasmaCaster": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Shield_Xenomorph_Drone": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AIESmallVanometricPowerCell": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Gun_SpearRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_TrapSpike": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Synth": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Equipment_TribalGauntlet_TOGGLEDEF_LH": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Equipment_TribalGauntlet_TOGGLEDEF_RH": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Apparel_TribalCloak": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_UA571C_Turret": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Apparel_Fatigues": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_StandardGear": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AIEVanometricPowerCell": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotechnology and Archotech Bionics Expanded",
+    "QuantityLimit": -1
+  },
+  "AvP_USCM_Headgear_Bandana": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Xenomorph_Shell": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "Meat_AvP_Xenomorph_FaceHugger": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Leather_Xenomorph": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Xenomorph_TailSpike": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_MeleeWeapon_XenoSpear": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Alien_Yautja": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_BioMask": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Melee_BladedMaul": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_CryptosleepCasket_Tribute_XenoEgg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Gun_Compound_Bow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_ChestplateHeavy": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_Chestplate": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_Greaves": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Gun_Hunting_Bow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Leather_Yautja": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_BioMaskLight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Armour_ChestplateLight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_TableMachining": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Gun_SmartDisk": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Apparel_ThermalMesh": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Apparel_TribalMask": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "AvP_Yautja_Apparel_HunterVest": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  }
+}
