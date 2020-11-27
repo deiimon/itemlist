@@ -10,18 +10,6 @@
     "name": "Increased Stack"
   },
   {
-    "author": "RimWorld Multiplayer Team",
-    "name": "Multiplayer",
-    "steamId": "1752864297",
-    "version": "0.1"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Rimefeller",
-    "steamId": "1321849735",
-    "version": "1.2.944"
-  },
-  {
     "author": "EdB",
     "name": "EdB Prepare Carefully"
   },
@@ -136,12 +124,6 @@
     "version": "2.0.4.0"
   },
   {
-    "author": "aRandomKiwi",
-    "name": "Power++",
-    "steamId": "1771402217",
-    "version": "1.7.11"
-  },
-  {
     "author": "fridgeBaron",
     "name": "Immortals",
     "steamId": "1984905966",
@@ -216,5 +198,41 @@
   {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot"
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.7393.34550"
+  },
+  {
+    "author": "Ron Popeil",
+    "name": "Don't Steal My Walls!",
+    "steamId": "2058688941",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Wzrd",
+    "name": "[WZRD] Carry Capacity (Continued)",
+    "steamId": "2237017954",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.3.2"
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training"
   }
 ]

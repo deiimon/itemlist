@@ -163,12 +163,6 @@
 		"defname": "Donkey"
 	},
 	{
-		"abr": "autoclave",
-		"price": 1108,
-		"category": "Oil",
-		"defname": "Autoclave"
-	},
-	{
 		"abr": "auto-hammer",
 		"price": 992,
 		"category": "Armas de corpo a corpo",
@@ -811,24 +805,6 @@
 		"defname": "Apparel_CowboyHat"
 	},
 	{
-		"abr": "chemfuelpowerplant",
-		"price": 1558,
-		"category": "Oil",
-		"defname": "FuelPowerplant"
-	},
-	{
-		"abr": "chemfuelpump",
-		"price": 49,
-		"category": "Oil",
-		"defname": "ChemfuelHopper"
-	},
-	{
-		"abr": "chemfuelsiphon",
-		"price": 49,
-		"category": "Oil",
-		"defname": "ChemfuelSiphon"
-	},
-	{
 		"abr": "chifredethrumbo",
 		"price": 1333,
 		"category": "Itens",
@@ -1279,12 +1255,6 @@
 		"defname": "Husky"
 	},
 	{
-		"abr": "hyperweaverefiner",
-		"price": 2075,
-		"category": "Oil",
-		"defname": "HyperweaveRefiner"
-	},
-	{
 		"abr": "iaque",
 		"price": 533,
 		"category": "Animal",
@@ -1711,34 +1681,10 @@
 		"defname": "MultiAnalyzer"
 	},
 	{
-		"abr": "napalmbomb",
-		"price": 350,
-		"category": "Oil",
-		"defname": "NapalmBomb"
-	},
-	{
-		"abr": "napalmrefiner",
-		"price": 758,
-		"category": "Oil",
-		"defname": "NapalmRefiner"
-	},
-	{
-		"abr": "napalmshell",
-		"price": 92,
-		"category": "Munição de morteiro",
-		"defname": "Shell_Napalm"
-	},
-	{
 		"abr": "neutroamina",
 		"price": 10,
 		"category": "Manufaturado",
 		"defname": "Neutroamine"
-	},
-	{
-		"abr": "neutroaminerefiner",
-		"price": 1583,
-		"category": "Oil",
-		"defname": "NeutroamineRefiner"
 	},
 	{
 		"abr": "núcleodepersonalidadeia",
@@ -2023,12 +1969,6 @@
 		"defname": "HorseshoesPin"
 	},
 	{
-		"abr": "pipelinevalve",
-		"price": 50,
-		"category": "Oil",
-		"defname": "pipelineValve"
-	},
-	{
 		"abr": "pistolaautomática",
 		"price": 232,
 		"category": "Armas de longo alcance",
@@ -2215,12 +2155,6 @@
 		"defname": "MealSimple"
 	},
 	{
-		"abr": "refineryunloadingbay",
-		"price": 49,
-		"category": "Oil",
-		"defname": "RefineryLoadingBay"
-	},
-	{
 		"abr": "refrigeradorquadrado(2x2)",
 		"price": 307,
 		"category": "Mobília",
@@ -2231,12 +2165,6 @@
 		"price": 2,
 		"category": "Couros",
 		"defname": "Leather_Patch"
-	},
-	{
-		"abr": "resourceconsole",
-		"price": 642,
-		"category": "Oil",
-		"defname": "ResourceConsole"
 	},
 	{
 		"abr": "revólver",
@@ -2315,24 +2243,6 @@
 		"price": 88,
 		"category": "Drogas",
 		"defname": "GoJuice"
-	},
-	{
-		"abr": "synthamiderefiner",
-		"price": 1167,
-		"category": "Oil",
-		"defname": "SynthamideRefiner"
-	},
-	{
-		"abr": "synthreadrefiner",
-		"price": 808,
-		"category": "Oil",
-		"defname": "SynthreadRefiner"
-	},
-	{
-		"abr": "synthylenerefiner",
-		"price": 758,
-		"category": "Oil",
-		"defname": "SynthyleneRefiner"
 	},
 	{
 		"abr": "tabuleirodejogo-de-ur",
@@ -2465,18 +2375,6 @@
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social"
-	},
-	{
-		"abr": "uncuredplasteel",
-		"price": 3,
-		"category": "Recursos brutos",
-		"defname": "UncuredPlasteel"
-	},
-	{
-		"abr": "uncuredsynthamidecomposite",
-		"price": 3,
-		"category": "Synthamide",
-		"defname": "UncuredComposite"
 	},
 	{
 		"abr": "urânio",
@@ -3427,18 +3325,6 @@
 		"defname": "AvP_Yautja_Gun_Blaster"
 	},
 	{
-		"abr": "portablewpnreceiver",
-		"price": 2342,
-		"category": "Diversos",
-		"defname": "ARKPPP_WirelessPortablePowerReceptor"
-	},
-	{
-		"abr": "portalelwpnemitter",
-		"price": 4383,
-		"category": "Diversos",
-		"defname": "ARKPPP_LocalWirelessPortablePowerEmitter"
-	},
-	{
 		"abr": "rhynth",
 		"price": 1167,
 		"category": "Animal",
@@ -3524,7 +3410,7 @@
 	},
 	{
 		"abr": "synth",
-		"price": 8333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AvP_Synth"
 	},
@@ -3582,6 +3468,36 @@
 		"category": "Itens",
 		"defname": "AvP_Xenomorph_Shell"
 	},
+	{
+		"abr": "xenomorphflesh",
+		"price": 3,
+		"category": "Carne",
+		"defname": "Meat_AvP_Xenomorph_FaceHugger"
+	},
+	{
+		"abr": "xenomorphleather",
+		"price": 5,
+		"category": "Couros",
+		"defname": "AvP_Leather_Xenomorph"
+	},
+	{
+		"abr": "xenomorphtailspike",
+		"price": 667,
+		"category": "Itens",
+		"defname": "AvP_Xenomorph_TailSpike"
+	},
+	{
+		"abr": "xenomorph-tailspear",
+		"price": 942,
+		"category": "Armas de corpo a corpo",
+		"defname": "AvP_MeleeWeapon_XenoSpear"
+	},
+	{
+		"abr": "yautja",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AvP_Alien_Yautja"
+	},
 	],
-	"total": 618
+	"total": 602
 }

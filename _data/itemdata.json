@@ -269,16 +269,6 @@
     "Mod": "Core",
     "QuantityLimit": -1
   },
-  "Autoclave": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
   "RTFTJ_Autohammer": {
     "HasQuantityLimit": false,
     "IsMelee": true,
@@ -1349,36 +1339,6 @@
     "Mod": "Core",
     "QuantityLimit": -1
   },
-  "FuelPowerplant": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
-  "ChemfuelHopper": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
-  "ChemfuelSiphon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
   "ThrumboHorn": {
     "HasQuantityLimit": false,
     "IsMelee": true,
@@ -2129,16 +2089,6 @@
     "Mod": "Core",
     "QuantityLimit": -1
   },
-  "HyperweaveRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
   "Yak": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2849,36 +2799,6 @@
     "Mod": "Core",
     "QuantityLimit": -1
   },
-  "NapalmBomb": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
-  "NapalmRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
-  "Shell_Napalm": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
   "Neutroamine": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2887,16 +2807,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Core",
-    "QuantityLimit": -1
-  },
-  "NeutroamineRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1
   },
   "AIPersonaCore": {
@@ -3689,16 +3599,6 @@
     "Mod": "Core",
     "QuantityLimit": -1
   },
-  "RefineryLoadingBay": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
   "RimFridge_QuadRefrigerator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -3717,16 +3617,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Core",
-    "QuantityLimit": -1
-  },
-  "ResourceConsole": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1
   },
   "Gun_Revolver": {
@@ -3857,36 +3747,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Core",
-    "QuantityLimit": -1
-  },
-  "SynthamideRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
-  "SynthreadRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
-  "SynthyleneRefiner": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1
   },
   "GameOfUrBoard": {
@@ -4107,26 +3967,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Core",
-    "QuantityLimit": -1
-  },
-  "UncuredPlasteel": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1
-  },
-  "UncuredComposite": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1
   },
   "Uranium": {
@@ -5759,14 +5599,14 @@
     "Mod": "Alien Vs Predator",
     "QuantityLimit": -1
   },
-  "pipelineValve": {
+  "ArcheryTarget": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
+    "Mod": "Misc. Training",
     "QuantityLimit": -1
   },
   "AvP_Yautja_Gun_Blaster": {
@@ -5777,26 +5617,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Alien Vs Predator",
-    "QuantityLimit": -1
-  },
-  "ARKPPP_WirelessPortablePowerReceptor": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Power++",
-    "QuantityLimit": -1
-  },
-  "ARKPPP_LocalWirelessPortablePowerEmitter": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Power++",
     "QuantityLimit": -1
   },
   "AvP_Rhynth": {
@@ -6177,6 +5997,26 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alien Vs Predator",
+    "QuantityLimit": -1
+  },
+  "MartialArtsTarget": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Training",
+    "QuantityLimit": -1
+  },
+  "ShootingRangeTarget": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Misc. Training",
     "QuantityLimit": -1
   }
 }
