@@ -193,7 +193,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.2.768"
+    "version": "1.2.787"
   },
   {
     "author": "Smash Phil",
@@ -234,5 +234,17 @@
   {
     "author": "Haplo",
     "name": "Misc. Training"
+  },
+  {
+    "author": "jecrell",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.1.1.2"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.4.2"
   }
 ]
