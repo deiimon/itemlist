@@ -58,8 +58,8 @@
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
-    "steamId": "",
-    "version": "5.0.1.10"
+    "steamId": "2009500580",
+    "version": "5.0.2.2"
   },
   {
     "author": "InfinitySamurai",
@@ -236,15 +236,77 @@
     "name": "Misc. Training"
   },
   {
-    "author": "jecrell",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.1.1.2"
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.2.0.4"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.4.2"
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage"
+  },
+  {
+    "author": "Netrve",
+    "name": "Netrve's DeepStorage GUI",
+    "steamId": "2169841018",
+    "version": "1.2.1.37"
+  },
+  {
+    "author": "EarthyTurtle, zhrocks",
+    "name": "Let's Trade!"
+  },
+  {
+    "author": "gguake",
+    "name": "Simple Search Bar"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed"
+  },
+  {
+    "author": "[cn]nuclear",
+    "name": "Tinker's Construct"
+  },
+  {
+    "author": "Tittymcswaggy",
+    "name": "TMC Gun Accessories"
+  },
+  {
+    "author": "Tittymcswaggy",
+    "name": "TMC Modular Weapons"
+  },
+  {
+    "author": "Tittymcswaggy",
+    "name": "TMC Armory - Community Pack "
+  },
+  {
+    "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": "2297729625",
+    "version": "1.0.7629.42224"
+  },
+  {
+    "author": "Derek Bickley",
+    "name": "[LTO] Texture Overhaul"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem"
+  },
+  {
+    "author": "Kang060302",
+    "name": "Better Pod Launcher (Continued)"
+  },
+  {
+    "author": "Jaxxa",
+    "name": "ED-EnhancedOptions",
+    "steamId": "1241694757",
+    "version": "1.0.0.0"
   }
 ]
