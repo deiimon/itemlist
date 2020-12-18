@@ -362,5 +362,19 @@
     "name": "Compact Hediffs",
     "steamId": "2031734067",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Brunayla",
+    "name": "Neutrainer and AI Persona Core Crafting"
+  },
+  {
+    "author": "Shakesthespeare, iforgotmysocks",
+    "name": "Rimsec Security",
+    "steamId": "2323762086",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD"
   }
 ]

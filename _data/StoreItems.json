@@ -9929,7 +9929,127 @@
 		"price": 185,
 		"category": "Weapons Part",
 		"defname": "TMC_Attachment_AKStyle_ZenitType2Stock"
+	},
+	{
+		"abr": "neurotrainerworkbench",
+		"price": 284,
+		"category": "Produção",
+		"defname": "NeurotrainerWorkTable"
+	},
+	{
+		"abr": "dlg-20",
+		"price": 775,
+		"category": "Armas de longo alcance",
+		"defname": "RSWeaponDLG"
+	},
+	{
+		"abr": "ehg-22",
+		"price": 1383,
+		"category": "Armas de longo alcance",
+		"defname": "RSWeaponEHG"
+	},
+	{
+		"abr": "lightlaserturret",
+		"price": 1500,
+		"category": "Segurança",
+		"defname": "RSTurretLLT"
+	},
+	{
+		"abr": "peacekeeperassemblybench",
+		"price": 13333,
+		"category": "Produção",
+		"defname": "RSRobotAssemblyBench"
+	},
+	{
+		"abr": "peacekeeperdefender",
+		"price": 4667,
+		"category": "Animal",
+		"defname": "RSPeacekeeperDefender"
+	},
+	{
+		"abr": "peacekeeperdefenderdesert",
+		"price": 4667,
+		"category": "Animal",
+		"defname": "RSPeacekeeperDefenderDesert"
+	},
+	{
+		"abr": "peacekeeperdefenderforest",
+		"price": 4667,
+		"category": "Animal",
+		"defname": "RSPeacekeeperDefenderForest"
+	},
+	{
+		"abr": "peacekeeperdefenderwinter",
+		"price": 4667,
+		"category": "Animal",
+		"defname": "RSPeacekeeperDefenderWinter"
+	},
+	{
+		"abr": "peacekeeperenforcer",
+		"price": 7917,
+		"category": "Animal",
+		"defname": "RSPeacekeeperEnforcer"
+	},
+	{
+		"abr": "peacekeeperenforcerdesert",
+		"price": 7917,
+		"category": "Animal",
+		"defname": "RSPeacekeeperEnforcerDesert"
+	},
+	{
+		"abr": "peacekeeperenforcerforest",
+		"price": 7917,
+		"category": "Animal",
+		"defname": "RSPeacekeeperEnforcerForest"
+	},
+	{
+		"abr": "peacekeeperenforcerwinter",
+		"price": 7917,
+		"category": "Animal",
+		"defname": "RSPeacekeeperEnforcerWinter"
+	},
+	{
+		"abr": "peacekeepersentinel",
+		"price": 23333,
+		"category": "Animal",
+		"defname": "RSPeacekeeperSentinel"
+	},
+	{
+		"abr": "peacekeepersentineldesert",
+		"price": 23333,
+		"category": "Animal",
+		"defname": "RSPeacekeeperSentinelDesert"
+	},
+	{
+		"abr": "peacekeepersentinelforest",
+		"price": 23333,
+		"category": "Animal",
+		"defname": "RSPeacekeeperSentinelForest"
+	},
+	{
+		"abr": "peacekeepersentinelwinter",
+		"price": 23333,
+		"category": "Animal",
+		"defname": "RSPeacekeeperSentinelWinter"
+	},
+	{
+		"abr": "shag-1",
+		"price": 3225,
+		"category": "Armas de longo alcance",
+		"defname": "RSWeaponSHAG"
+	},
+	{
+		"abr": "srspowercell",
+		"price": 8,
+		"category": "Manufaturado",
+		"defname": "RSPowerCell"
+	},
+	{
+		"abr": "srsprocessingchip",
+		"price": 500,
+		"category": "Manufaturado",
+		"defname": "RSSRSProcessingChip"
 	}
 	],
-	"total": 1655
+	"total": 1675
 }

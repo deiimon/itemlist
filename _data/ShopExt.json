@@ -1671,6 +1671,124 @@
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RSTraitSecurity",
+      "degree": 0,
+      "name": "securitymodel",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy is a security variant, it features higher armour compared to other variants.",
+      "stats": [
+        "+30.0% Resistência - Cortante",
+        "+20.0% Resistência - Contundente"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RSTraitForest",
+      "degree": 0,
+      "name": "forestmodel",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy is a forest variant, it features higher melee skills and higher movement in forests compared to other variants.",
+      "stats": [
+        "+15.0 chance de esquiva corpo a corpo",
+        "+5.0 chance de acerto corpo a corpo",
+        "+1.00 velocidade de movimento",
+        "x80% recarga corpo a corpo"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RSTraitWinter",
+      "degree": 0,
+      "name": "wintermodel",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy is a winter variant, it features higher accuracy and higher movement in snowy terrain compared to other variants.",
+      "stats": [
+        "+5.0 precisão de tiro"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RSTraitDesert",
+      "degree": 0,
+      "name": "desertmodel",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy is a desert variant, it features faster aiming time and higher movement in sandy terrain compared to other variants.",
+      "stats": [
+        "-50% tempo de pontaria"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RSTraitRobot",
+      "degree": 0,
+      "name": "robot",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy Todo. ele Todo",
+      "stats": [
+        "-35% limite de colapso mental"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RSTraitValuable",
+      "degree": 0,
+      "name": "valuable",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy Todo. ele Todo",
+      "stats": [
+        "x130% valor de mercado"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
     }
   ],
   "races": [
@@ -1706,6 +1824,114 @@
       "defName": "AvP_Alien_Yautja",
       "enabled": true,
       "name": "Yautja",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 4667,
+      "defName": "RSPeacekeeperDefender",
+      "enabled": true,
+      "name": "Peacekeeper Defender",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 4667,
+      "defName": "RSPeacekeeperDefenderForest",
+      "enabled": true,
+      "name": "Peacekeeper Defender Forest",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 4667,
+      "defName": "RSPeacekeeperDefenderDesert",
+      "enabled": true,
+      "name": "Peacekeeper Defender Desert",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 4667,
+      "defName": "RSPeacekeeperDefenderWinter",
+      "enabled": true,
+      "name": "Peacekeeper Defender Winter",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 7917,
+      "defName": "RSPeacekeeperEnforcer",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 7917,
+      "defName": "RSPeacekeeperEnforcerForest",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Forest",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 7917,
+      "defName": "RSPeacekeeperEnforcerDesert",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Desert",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 7917,
+      "defName": "RSPeacekeeperEnforcerWinter",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Winter",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 23333,
+      "defName": "RSPeacekeeperSentinel",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 23333,
+      "defName": "RSPeacekeeperSentinelForest",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Forest",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 23333,
+      "defName": "RSPeacekeeperSentinelDesert",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Desert",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 23333,
+      "defName": "RSPeacekeeperSentinelWinter",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Winter",
       "data": {
         "customName": false
       }
