@@ -2749,12 +2749,6 @@
 		"defname": "Lighting_MURWallSunLight"
 	},
 	{
-		"abr": "88mod4combatpistol",
-		"price": 500,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_88mod4P"
-	},
-	{
 		"abr": "advancedarchotecharm",
 		"price": -10,
 		"category": "Archotech",
@@ -2783,12 +2777,6 @@
 		"price": 8333,
 		"category": "Especial",
 		"defname": "AdvVano"
-	},
-	{
-		"abr": "ancientcryptosleepcasket",
-		"price": 617,
-		"category": "Diversos",
-		"defname": "AvP_XenomorphCryptosleepCasket"
 	},
 	{
 		"abr": "animalprostheticstable",
@@ -2977,12 +2965,6 @@
 		"defname": "ArchotechwoundRegenerator"
 	},
 	{
-		"abr": "artificialskin",
-		"price": 6,
-		"category": "Couros",
-		"defname": "AvP_Synthetic_Skin"
-	},
-	{
 		"abr": "bigvanometricpowercell",
 		"price": 4000,
 		"category": "Especial",
@@ -3061,108 +3043,6 @@
 		"defname": "BionicAnimalStomach"
 	},
 	{
-		"abr": "carnedeneomorph",
-		"price": 3,
-		"category": "Carne",
-		"defname": "Meat_AvP_Xenomorph_Neomorph"
-	},
-	{
-		"abr": "carnederhynth",
-		"price": 3,
-		"category": "Carne",
-		"defname": "Meat_AvP_Rhynth"
-	},
-	{
-		"abr": "carnedesynth",
-		"price": 3,
-		"category": "Carne",
-		"defname": "Meat_AvP_Synth"
-	},
-	{
-		"abr": "carnedeyautja",
-		"price": 3,
-		"category": "Carne",
-		"defname": "Meat_AvP_Alien_Yautja"
-	},
-	{
-		"abr": "combistaff",
-		"price": 500,
-		"category": "Armas de corpo a corpo",
-		"defname": "AvP_Yautja_Melee_Combistaff"
-	},
-	{
-		"abr": "eliteyautjabiomask",
-		"price": 833,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskElite"
-	},
-	{
-		"abr": "eliteyautjahunterchestplate",
-		"price": 4167,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateElite"
-	},
-	{
-		"abr": "engineerjumpsuit",
-		"price": 166,
-		"category": "USCM Apparel",
-		"defname": "AvP_USCM_Apparel_Jumpsuit_Engineer"
-	},
-	{
-		"abr": "falconeryautjabiomask",
-		"price": 833,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskFalconer"
-	},
-	{
-		"abr": "headmountedsight",
-		"price": 1667,
-		"category": "USCM Equipment",
-		"defname": "AvP_USCM_Equipment_HeadMountedSight"
-	},
-	{
-		"abr": "healthshard",
-		"price": 1250,
-		"category": "Itens",
-		"defname": "AvP_Yautja_HealthShard"
-	},
-	{
-		"abr": "huntergauntlet(l)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_Gauntlet_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "huntergauntlet(longblade)(l)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletLong_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "huntergauntlet(longblade)(r)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletLong_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "huntergauntlet(r)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_Gauntlet_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "huntergauntlet(singleblade)(l)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletShort_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "huntergauntlet(singleblade)(r)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletShort_TOGGLEDEF_RH"
-	},
-	{
 		"abr": "infiniteantimatterreactor",
 		"price": 2500,
 		"category": "Especial",
@@ -3191,156 +3071,6 @@
 		"price": 2500,
 		"category": "Especial",
 		"defname": "InfiniteSteelReactor"
-	},
-	{
-		"abr": "m10patternballistichelmet",
-		"price": 583,
-		"category": "USCM Headgear",
-		"defname": "AvP_USCM_Headgear_M10PAttern"
-	},
-	{
-		"abr": "m240incinerator",
-		"price": 625,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_M240Incinerator"
-	},
-	{
-		"abr": "m2402heavyincinerator",
-		"price": 2167,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_M240A2Incinerator_Heavy"
-	},
-	{
-		"abr": "m3patternpersonalarmour",
-		"price": 1667,
-		"category": "USCM Armour",
-		"defname": "AvP_USCM_Armour_M3Pattern"
-	},
-	{
-		"abr": "m37a2pumpshotgun",
-		"price": 1667,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_M37A2S"
-	},
-	{
-		"abr": "m39submachinegun",
-		"price": 583,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_M39SMG"
-	},
-	{
-		"abr": "m41apulserifle(grenade)",
-		"price": 833,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_M41APR"
-	},
-	{
-		"abr": "m41apulserifle(shotgun)",
-		"price": 833,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_M41BPR"
-	},
-	{
-		"abr": "m42asniperrifle",
-		"price": 5000,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_M42ASR"
-	},
-	{
-		"abr": "m4a3servicepistol",
-		"price": 500,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_M4A3P"
-	},
-	{
-		"abr": "m4a4pistol",
-		"price": 1000,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_M4A4P"
-	},
-	{
-		"abr": "m5rocketpropelledgrenade",
-		"price": 13333,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_M5RPG"
-	},
-	{
-		"abr": "m56combatharness",
-		"price": 1667,
-		"category": "USCM Armour",
-		"defname": "AvP_USCM_Armour_M56CombatHarness"
-	},
-	{
-		"abr": "m56operatorsupplies",
-		"price": 200,
-		"category": "Itens",
-		"defname": "AvP_USCM_OperatorGear"
-	},
-	{
-		"abr": "m56smartgun",
-		"price": 1250,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_USCM_Gun_M56SmartGun"
-	},
-	{
-		"abr": "maintenancejack",
-		"price": 125,
-		"category": "Armas de corpo a corpo",
-		"defname": "AvP_USCM_MaintenanceJack"
-	},
-	{
-		"abr": "medicaljumpsuit",
-		"price": 166,
-		"category": "USCM Apparel",
-		"defname": "AvP_USCM_Apparel_Jumpsuit_Medical"
-	},
-	{
-		"abr": "militarycap",
-		"price": 94,
-		"category": "USCM Headgear",
-		"defname": "AvP_USCM_Headgear_Cap"
-	},
-	{
-		"abr": "needler",
-		"price": 1250,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_Yautja_Gun_Needler"
-	},
-	{
-		"abr": "ornateyautjabiomask",
-		"price": 833,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskOrnate"
-	},
-	{
-		"abr": "ornateyautjahunterchestplate",
-		"price": 4167,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateOrnate"
-	},
-	{
-		"abr": "plasmapistol",
-		"price": 1250,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_Yautja_Gun_Blaster"
-	},
-	{
-		"abr": "rhynth",
-		"price": 1167,
-		"category": "Animal",
-		"defname": "AvP_Rhynth"
-	},
-	{
-		"abr": "rhynthleather",
-		"price": 4,
-		"category": "Couros",
-		"defname": "AvP_Leather_Rhynth"
-	},
-	{
-		"abr": "shoulderplasmacaster",
-		"price": 5833,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_PlasmaCaster"
 	},
 	{
 		"abr": "simpleanimalearimplant",
@@ -3385,118 +3115,16 @@
 		"defname": "ProstheticTailAnimal"
 	},
 	{
-		"abr": "simplexenomorphshield(drone)",
-		"price": 342,
-		"category": "Armas de corpo a corpo",
-		"defname": "AvP_Shield_Xenomorph_Drone"
-	},
-	{
 		"abr": "smallvanometricpowercell",
 		"price": 1000,
 		"category": "Especial",
 		"defname": "AIESmallVanometricPowerCell"
 	},
 	{
-		"abr": "spearrifle",
-		"price": 1467,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_Yautja_Gun_SpearRifle"
-	},
-	{
-		"abr": "spiketrap",
-		"price": 319,
-		"category": "Segurança",
-		"defname": "AvP_TrapSpike"
-	},
-	{
-		"abr": "synth",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AvP_Synth"
-	},
-	{
-		"abr": "tribalhunterwristblade(l)",
-		"price": 833,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_TribalGauntlet_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "tribalhunterwristblade(r)",
-		"price": 833,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_TribalGauntlet_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "tribalcloak",
-		"price": 244,
-		"category": "Yautja apparel",
-		"defname": "AvP_Yautja_Apparel_TribalCloak"
-	},
-	{
-		"abr": "ua571-cautomatedsentrygun",
-		"price": 16667,
-		"category": "Segurança",
-		"defname": "AvP_USCM_UA571C_Turret"
-	},
-	{
-		"abr": "uscmfatigues",
-		"price": 166,
-		"category": "USCM Apparel",
-		"defname": "AvP_USCM_Apparel_Fatigues"
-	},
-	{
-		"abr": "uscmstandardarmamement",
-		"price": 200,
-		"category": "Itens",
-		"defname": "AvP_USCM_StandardGear"
-	},
-	{
 		"abr": "vanometricpowercell",
 		"price": 2000,
 		"category": "Especial",
 		"defname": "AIEVanometricPowerCell"
-	},
-	{
-		"abr": "warbandana",
-		"price": 58,
-		"category": "USCM Headgear",
-		"defname": "AvP_USCM_Headgear_Bandana"
-	},
-	{
-		"abr": "xenomorphcarapace",
-		"price": 333,
-		"category": "Itens",
-		"defname": "AvP_Xenomorph_Shell"
-	},
-	{
-		"abr": "xenomorphflesh",
-		"price": 3,
-		"category": "Carne",
-		"defname": "Meat_AvP_Xenomorph_FaceHugger"
-	},
-	{
-		"abr": "xenomorphleather",
-		"price": 5,
-		"category": "Couros",
-		"defname": "AvP_Leather_Xenomorph"
-	},
-	{
-		"abr": "xenomorphtailspike",
-		"price": 667,
-		"category": "Itens",
-		"defname": "AvP_Xenomorph_TailSpike"
-	},
-	{
-		"abr": "xenomorph-tailspear",
-		"price": 942,
-		"category": "Armas de corpo a corpo",
-		"defname": "AvP_MeleeWeapon_XenoSpear"
-	},
-	{
-		"abr": "yautja",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AvP_Alien_Yautja"
 	},
 	{
 		"abr": "archerytarget",
@@ -3515,102 +3143,6 @@
 		"price": 325,
 		"category": "Recreação",
 		"defname": "ShootingRangeTarget"
-	},
-	{
-		"abr": "yautjabiomask",
-		"price": 833,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMask"
-	},
-	{
-		"abr": "yautjabladedmaul",
-		"price": 1333,
-		"category": "Armas de corpo a corpo",
-		"defname": "AvP_Yautja_Melee_BladedMaul"
-	},
-	{
-		"abr": "yautjabloodingcasket",
-		"price": 16667,
-		"category": "Diversos",
-		"defname": "AvP_Yautja_CryptosleepCasket_Tribute_XenoEgg"
-	},
-	{
-		"abr": "yautjacompoundbow",
-		"price": 358,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_Yautja_Gun_Compound_Bow"
-	},
-	{
-		"abr": "yautjaheavychestplate",
-		"price": 3333,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateHeavy"
-	},
-	{
-		"abr": "yautjahunterchestplate",
-		"price": 2917,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_Chestplate"
-	},
-	{
-		"abr": "yautjahuntergreaves",
-		"price": 1667,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_Greaves"
-	},
-	{
-		"abr": "yautjahuntingbow",
-		"price": 218,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_Yautja_Gun_Hunting_Bow"
-	},
-	{
-		"abr": "yautjaleather",
-		"price": 7,
-		"category": "Couros",
-		"defname": "AvP_Leather_Yautja"
-	},
-	{
-		"abr": "yautjalightbiomask",
-		"price": 833,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskLight"
-	},
-	{
-		"abr": "yautjalightchestplate",
-		"price": 2500,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateLight"
-	},
-	{
-		"abr": "yautjamachiningtable",
-		"price": 758,
-		"category": "Produção",
-		"defname": "AvP_Yautja_TableMachining"
-	},
-	{
-		"abr": "yautjasmartdisk",
-		"price": 692,
-		"category": "Armas de longo alcance",
-		"defname": "AvP_Yautja_Gun_SmartDisk"
-	},
-	{
-		"abr": "yautjasurvivalmesh",
-		"price": 383,
-		"category": "Yautja apparel",
-		"defname": "AvP_Yautja_Apparel_ThermalMesh"
-	},
-	{
-		"abr": "yautjatribalmask",
-		"price": 167,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Apparel_TribalMask"
-	},
-	{
-		"abr": "yautjavest",
-		"price": 211,
-		"category": "Yautja apparel",
-		"defname": "AvP_Yautja_Apparel_HunterVest"
 	},
 	{
 		"abr": "advancedgeothermalgenerator",
@@ -4225,456 +3757,6 @@
 		"defname": "JDS_Large_Post_Box"
 	},
 	{
-		"abr": "10roundssteelmagazineforakseries",
-		"price": 19,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachments_AKStyle_10RrnMag"
-	},
-	{
-		"abr": "30roundsbakelitemagazineforakseries",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachments_AKStyle_BakeLiteMag"
-	},
-	{
-		"abr": "30roundspolymermagazineforakseries",
-		"price": 60,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachments_AKStyle_PolymerMag"
-	},
-	{
-		"abr": "30mmubgl",
-		"price": 392,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_UBGL_CR"
-	},
-	{
-		"abr": "60roundsquad-stackmagazineforakseries",
-		"price": 288,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachments_AKStyle_QuadStackMag"
-	},
-	{
-		"abr": "acidassaultrifle",
-		"price": 1500,
-		"category": "Armas de longo alcance",
-		"defname": "AT_AcidAssaultRifle"
-	},
-	{
-		"abr": "acidcrossbow",
-		"price": 176,
-		"category": "Armas de longo alcance",
-		"defname": "AT_AcidCross"
-	},
-	{
-		"abr": "acidlauncher",
-		"price": 2675,
-		"category": "Armas de longo alcance",
-		"defname": "AT_AcidLauncher"
-	},
-	{
-		"abr": "acidlightmachinegun",
-		"price": 1467,
-		"category": "Armas de longo alcance",
-		"defname": "AT_LMG"
-	},
-	{
-		"abr": "acidlinerifle",
-		"price": 1500,
-		"category": "Armas de longo alcance",
-		"defname": "AT_AcidLineRifle"
-	},
-	{
-		"abr": "acidrifle",
-		"price": 917,
-		"category": "Armas de longo alcance",
-		"defname": "AT_AcidRifle"
-	},
-	{
-		"abr": "ak-74mcolonyriflemodernized",
-		"price": 558,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_Gun_CR_Modernized"
-	},
-	{
-		"abr": "ak-74ncolonyrifle",
-		"price": 458,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_Gun_CR"
-	},
-	{
-		"abr": "anty",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Anty"
-	},
-	{
-		"abr": "antyadditionalarmorplate",
-		"price": 475,
-		"category": "Anty gear",
-		"defname": "AT_AP_Additionalarmorplate_A"
-	},
-	{
-		"abr": "antyadditionalchainarmor",
-		"price": 304,
-		"category": "Anty gear",
-		"defname": "AT_AP_Additionalchain_A"
-	},
-	{
-		"abr": "antybulletproofcommenderhelmet",
-		"price": 417,
-		"category": "Anty Headgear",
-		"defname": "AT_AP_Head_B"
-	},
-	{
-		"abr": "antybulletproofhelmet",
-		"price": 417,
-		"category": "Anty Headgear",
-		"defname": "AT_AP_Head_A"
-	},
-	{
-		"abr": "antycapecoat",
-		"price": 442,
-		"category": "Anty Apparel",
-		"defname": "AT_AP_St_C"
-	},
-	{
-		"abr": "antycapeshirt",
-		"price": 304,
-		"category": "Anty Apparel",
-		"defname": "AT_AP_St_B"
-	},
-	{
-		"abr": "antycataglyphisadditionalarmor",
-		"price": 2725,
-		"category": "Anty gear",
-		"defname": "AT_AP_AdditionalPower_A"
-	},
-	{
-		"abr": "antycataglyphisarmor",
-		"price": 4533,
-		"category": "Anty gear",
-		"defname": "AT_AP_Power_A"
-	},
-	{
-		"abr": "antycataglyphishelmet",
-		"price": 2125,
-		"category": "Anty Headgear",
-		"defname": "AT_AP_Power_Head_A"
-	},
-	{
-		"abr": "antychainarmor",
-		"price": 467,
-		"category": "Anty gear",
-		"defname": "AT_AP_Chain_A"
-	},
-	{
-		"abr": "antycommendercape",
-		"price": 950,
-		"category": "Anty Apparel",
-		"defname": "AT_AP_CO_A"
-	},
-	{
-		"abr": "antycommendercloak",
-		"price": 1225,
-		"category": "Anty Apparel",
-		"defname": "AT_AP_CO_B"
-	},
-	{
-		"abr": "antycroptop",
-		"price": 253,
-		"category": "Anty Apparel",
-		"defname": "AT_AP_St_F"
-	},
-	{
-		"abr": "antyexoskeleton",
-		"price": 10,
-		"category": "Recursos brutos",
-		"defname": "AntyExoskeleton"
-	},
-	{
-		"abr": "antyflakvest",
-		"price": 400,
-		"category": "Anty gear",
-		"defname": "AT_AP_Flakvest"
-	},
-	{
-		"abr": "antyjacket",
-		"price": 375,
-		"category": "Anty Apparel",
-		"defname": "AT_AP_St_D"
-	},
-	{
-		"abr": "antymachinebutchertable",
-		"price": 433,
-		"category": "Produção",
-		"defname": "AntyTableButcher"
-	},
-	{
-		"abr": "antymilitaryuniform",
-		"price": 917,
-		"category": "Anty gear",
-		"defname": "AT_AP_Shooter_A"
-	},
-	{
-		"abr": "antymilitaryuniformcloak",
-		"price": 1225,
-		"category": "Anty Apparel",
-		"defname": "AT_AP_SH_A"
-	},
-	{
-		"abr": "antyplatehelm",
-		"price": 333,
-		"category": "Anty Headgear",
-		"defname": "AT_AP_Helm_A"
-	},
-	{
-		"abr": "antyshirt",
-		"price": 286,
-		"category": "Anty Apparel",
-		"defname": "AT_AP_St_A"
-	},
-	{
-		"abr": "awm",
-		"price": 750,
-		"category": "TMC Long Range",
-		"defname": "TMC_RF_AWM"
-	},
-	{
-		"abr": "barrettmrad",
-		"price": 750,
-		"category": "TMC Long Range",
-		"defname": "TMC_RF_MRAD"
-	},
-	{
-		"abr": "battlestimulationjelly",
-		"price": 500,
-		"category": "Drogas",
-		"defname": "Battlestimulation_jelly_thing"
-	},
-	{
-		"abr": "blade",
-		"price": 218,
-		"category": "Weapons Part",
-		"defname": "MeleeWeapon_BladePart"
-	},
-	{
-		"abr": "carnedeanty",
-		"price": 3,
-		"category": "Carne",
-		"defname": "Meat_Anty"
-	},
-	{
-		"abr": "cobra(dovetail)",
-		"price": 94,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_Cobra"
-	},
-	{
-		"abr": "combatgluelauncher",
-		"price": 1558,
-		"category": "Armas de longo alcance",
-		"defname": "AT_Combatglue"
-	},
-	{
-		"abr": "compositecrossbowtop",
-		"price": 109,
-		"category": "Weapons Part",
-		"defname": "RangWeapon_Crossbow_TopCompositePart"
-	},
-	{
-		"abr": "copymachiningtable",
-		"price": 642,
-		"category": "Produção",
-		"defname": "AntyCopyTableMachining"
-	},
-	{
-		"abr": "copytailorbench",
-		"price": 492,
-		"category": "Produção",
-		"defname": "AntyCopyTailoringBench"
-	},
-	{
-		"abr": "crmetalfoldablestock",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_AKStyle_FoldableStock"
-	},
-	{
-		"abr": "crwoodenforegrip",
-		"price": 39,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_AKStyle_WoodenGrip"
-	},
-	{
-		"abr": "crwoodenstock",
-		"price": 39,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_AKStyle_WoodenStock"
-	},
-	{
-		"abr": "crmpolymerstock",
-		"price": 79,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_AKStyle_PolymerStock"
-	},
-	{
-		"abr": "crossbow",
-		"price": 250,
-		"category": "Assemble Weapons",
-		"defname": "RangWeapon_TinkersCrossbow"
-	},
-	{
-		"abr": "crossbowbody",
-		"price": 176,
-		"category": "Weapons Part",
-		"defname": "RangWeapon_Crossbow_BodyPart"
-	},
-	{
-		"abr": "crossbowtop",
-		"price": 59,
-		"category": "Weapons Part",
-		"defname": "RangWeapon_Crossbow_TopPart"
-	},
-	{
-		"abr": "deadairsuppressor",
-		"price": 110,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_DeadAir"
-	},
-	{
-		"abr": "dtkmuzzlebrake",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_DTK"
-	},
-	{
-		"abr": "eraserjelly",
-		"price": 500,
-		"category": "Drogas",
-		"defname": "Eraser_jelly_thing"
-	},
-	{
-		"abr": "fnfal",
-		"price": 692,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_FNFAL"
-	},
-	{
-		"abr": "gencoangledgrip",
-		"price": 41,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_AngledGrip"
-	},
-	{
-		"abr": "gencoarmuzzlebrake",
-		"price": 62,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_GenCoARMuzzleBreak"
-	},
-	{
-		"abr": "gencoarsuppressor",
-		"price": 148,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_GenCoARSupressor"
-	},
-	{
-		"abr": "gencobattleriflesuppressor",
-		"price": 142,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_BRSuppressor"
-	},
-	{
-		"abr": "gencohg/smgsuppressor",
-		"price": 148,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_GenCoHGSupressor"
-	},
-	{
-		"abr": "gencoshortscope",
-		"price": 142,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_ShortScope"
-	},
-	{
-		"abr": "gencoverticalgrip",
-		"price": 41,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_VerticalGrip"
-	},
-	{
-		"abr": "halberd",
-		"price": 400,
-		"category": "Armas de corpo a corpo",
-		"defname": "AT_Halberd"
-	},
-	{
-		"abr": "hammer",
-		"price": 400,
-		"category": "Armas de corpo a corpo",
-		"defname": "AT_Hammer"
-	},
-	{
-		"abr": "handle",
-		"price": 89,
-		"category": "Weapons Part",
-		"defname": "MeleeWeapon_HandlePart"
-	},
-	{
-		"abr": "junction",
-		"price": 53,
-		"category": "Weapons Part",
-		"defname": "MeleeWeapon_JunctionPart"
-	},
-	{
-		"abr": "knife",
-		"price": 250,
-		"category": "Assemble Weapons",
-		"defname": "MeleeWeapon_TinkersKnife"
-	},
-	{
-		"abr": "knifeblade",
-		"price": 53,
-		"category": "Weapons Part",
-		"defname": "MeleeWeapon_KnifeBladePart"
-	},
-	{
-		"abr": "knifehandle",
-		"price": 52,
-		"category": "Weapons Part",
-		"defname": "MeleeWeapon_KnifeHandlePart"
-	},
-	{
-		"abr": "ks-23",
-		"price": 367,
-		"category": "TMC Shotguns",
-		"defname": "TMC_SG_KSTwoThree"
-	},
-	{
-		"abr": "longsword",
-		"price": 250,
-		"category": "Assemble Weapons",
-		"defname": "MeleeWeapon_TinkersLongSword"
-	},
-	{
-		"abr": "m1911aeroknox",
-		"price": 332,
-		"category": "TMC Sidearms",
-		"defname": "TMC_HG_1911Aeroknox"
-	},
-	{
-		"abr": "m1911professionallaser+reddotcombo",
-		"price": 302,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_AeroknoxSight"
-	},
-	{
-		"abr": "m249",
-		"price": 700,
-		"category": "TMC Support Weapons",
-		"defname": "TMC_LMG_MTwoFourNine"
-	},
-	{
 		"abr": "mealtrayrack",
 		"price": 255,
 		"category": "Mobília",
@@ -4777,42 +3859,6 @@
 		"defname": "JDSMilitary_Grade_Crate_Small_Pile"
 	},
 	{
-		"abr": "mold",
-		"price": 8,
-		"category": "Manufaturado",
-		"defname": "Stove_Mould"
-	},
-	{
-		"abr": "mp-155ultima",
-		"price": 800,
-		"category": "TMC Shotguns",
-		"defname": "TMC_SG_MP155Ultima"
-	},
-	{
-		"abr": "mp7",
-		"price": 633,
-		"category": "TMC SMGs",
-		"defname": "TMC_SMG_MPSeven"
-	},
-	{
-		"abr": "mp7suppressor",
-		"price": 148,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_MP7Supressor"
-	},
-	{
-		"abr": "mrsreflexsight",
-		"price": 126,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_MRS"
-	},
-	{
-		"abr": "nutritionaljelly",
-		"price": 500,
-		"category": "Drogas",
-		"defname": "Nutritional_jelly_thing"
-	},
-	{
 		"abr": "pallet",
 		"price": 220,
 		"category": "Mobília",
@@ -4853,72 +3899,6 @@
 		"price": 321,
 		"category": "Mobília",
 		"defname": "LWM_Pallet_Covered"
-	},
-	{
-		"abr": "pbssuppressor",
-		"price": 110,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_PBS"
-	},
-	{
-		"abr": "pgmhécateii",
-		"price": 708,
-		"category": "TMC Long Range",
-		"defname": "TMC_RF_Hacate"
-	},
-	{
-		"abr": "pilum",
-		"price": 250,
-		"category": "Assemble Weapons",
-		"defname": "RangWeapon_TinkersPilum"
-	},
-	{
-		"abr": "pilumgrip",
-		"price": 106,
-		"category": "Weapons Part",
-		"defname": "RangWeapon_Pilum_GripPart"
-	},
-	{
-		"abr": "proty",
-		"price": 833,
-		"category": "Animal",
-		"defname": "Anty_prototype"
-	},
-	{
-		"abr": "protyegg",
-		"price": 12,
-		"category": "Ovos (fert.)",
-		"defname": "EggProty"
-	},
-	{
-		"abr": "protyegg",
-		"price": 12,
-		"category": "Ovos (não fert.)",
-		"defname": "EggProtyUn"
-	},
-	{
-		"abr": "psoscope",
-		"price": 211,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_PSO"
-	},
-	{
-		"abr": "recycleturret",
-		"price": 1467,
-		"category": "Segurança",
-		"defname": "Anty_RecycleTurret"
-	},
-	{
-		"abr": "recyclecore",
-		"price": 667,
-		"category": "Manufaturado",
-		"defname": "Anty_Recyclecore"
-	},
-	{
-		"abr": "refleum",
-		"price": 22,
-		"category": "Recursos brutos",
-		"defname": "Refleum"
 	},
 	{
 		"abr": "resourcescrate1",
@@ -5017,12 +3997,6 @@
 		"defname": "JDSShippingContainerRed"
 	},
 	{
-		"abr": "sickle",
-		"price": 239,
-		"category": "Armas de corpo a corpo",
-		"defname": "AT_Sickle"
-	},
-	{
 		"abr": "silo",
 		"price": 3275,
 		"category": "Mobília",
@@ -5041,46 +4015,16 @@
 		"defname": "JDSmaller_locker"
 	},
 	{
-		"abr": "styerauga3",
-		"price": 750,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_AUG"
-	},
-	{
-		"abr": "tacticaldevicepeg15",
-		"price": 162,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_PEQONEFIVE"
-	},
-	{
 		"abr": "tallshelves",
 		"price": 550,
 		"category": "Mobília",
 		"defname": "LWM_VeryBigShelf"
 	},
 	{
-		"abr": "tgp-asuppressor",
-		"price": 110,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_TGP"
-	},
-	{
 		"abr": "toolbox",
 		"price": 4092,
 		"category": "Mobília",
 		"defname": "JDSTool_Box"
-	},
-	{
-		"abr": "trijiconacog",
-		"price": 242,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_TJCACOG"
-	},
-	{
-		"abr": "ump45",
-		"price": 450,
-		"category": "TMC SMGs",
-		"defname": "TMC_SMG_UMPFourFive"
 	},
 	{
 		"abr": "vendingmachinea",
@@ -5093,18 +4037,6 @@
 		"price": 170,
 		"category": "Mobília",
 		"defname": "JDSVending_Machine_two"
-	},
-	{
-		"abr": "vuduscope",
-		"price": 274,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_VuduScope"
-	},
-	{
-		"abr": "waltherp99",
-		"price": 238,
-		"category": "TMC Sidearms",
-		"defname": "TMC_HG_PNintyNine"
 	},
 	{
 		"abr": "weaponscabinet",
@@ -5125,34 +4057,10 @@
 		"defname": "JDSwheelbarrow"
 	},
 	{
-		"abr": "xps2holographicsight",
-		"price": 217,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_XPSTwo"
-	},
-	{
-		"abr": "zenittype1stock",
-		"price": 185,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_AKStyle_ZenitType1Stock"
-	},
-	{
 		"abr": "betterpodlauncher",
 		"price": 508,
 		"category": "",
 		"defname": "PodLaunchertwo"
-	},
-	{
-		"abr": "exoskeletonautomine",
-		"price": 1400,
-		"category": "",
-		"defname": "AntyExoskeleton_Production"
-	},
-	{
-		"abr": "inputer",
-		"price": 157,
-		"category": "",
-		"defname": "Inputer"
 	},
 	{
 		"abr": "metalpodlauncher",
@@ -5161,64 +4069,10 @@
 		"defname": "PodLauncherfive"
 	},
 	{
-		"abr": "outputer",
-		"price": 157,
-		"category": "",
-		"defname": "Outputer"
-	},
-	{
 		"abr": "podlauncherex",
 		"price": 1475,
 		"category": "",
 		"defname": "BPL_EX"
-	},
-	{
-		"abr": "stovecastingtable",
-		"price": 99,
-		"category": "",
-		"defname": "Stove_CastingTable"
-	},
-	{
-		"abr": "stovecoolingbucket",
-		"price": 99,
-		"category": "",
-		"defname": "Stove_CoolingBucket"
-	},
-	{
-		"abr": "stovecore",
-		"price": 315,
-		"category": "",
-		"defname": "Stove_Core"
-	},
-	{
-		"abr": "stoveheater(chemfuel)",
-		"price": 220,
-		"category": "",
-		"defname": "StoveHeater_C"
-	},
-	{
-		"abr": "stoveheater(electroniccontrol)",
-		"price": 274,
-		"category": "",
-		"defname": "StoveHeater_EC"
-	},
-	{
-		"abr": "stoveheater(electronic)",
-		"price": 327,
-		"category": "",
-		"defname": "StoveHeater_E"
-	},
-	{
-		"abr": "stoveheater(woodlog)",
-		"price": 220,
-		"category": "",
-		"defname": "StoveHeater_W"
-	},
-	{
-		"abr": "stuffinputerhopper",
-		"price": 49,
-		"category": "",
-		"defname": "Inputer_Hopper"
 	},
 	{
 		"abr": "superpodlauncher",
@@ -5231,30 +4085,6 @@
 		"price": 2517,
 		"category": "",
 		"defname": "PodLauncherfour"
-	},
-	{
-		"abr": "리플리움배양기",
-		"price": 4817,
-		"category": "",
-		"defname": "At_farm"
-	},
-	{
-		"abr": "반충격문",
-		"price": 392,
-		"category": "",
-		"defname": "AntyAutodoor"
-	},
-	{
-		"abr": "반충격벽",
-		"price": 126,
-		"category": "",
-		"defname": "AT_Wall"
-	},
-	{
-		"abr": "타액벽",
-		"price": 1,
-		"category": "",
-		"defname": "AT_WallB"
 	},
 	{
 		"abr": "arm",
@@ -9769,168 +8599,6 @@
 		"defname": "GR_WolfsnakeSkin"
 	},
 	{
-		"abr": "10roundsar-15pmag(tan)",
-		"price": 19,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachments_ARStyle_10RNDPMag"
-	},
-	{
-		"abr": "30roundsar-15pmag(tan)",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachments_ARStyle_PMagTan"
-	},
-	{
-		"abr": "30roundsar-15steelmagazine",
-		"price": 57,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachments_ARStyle_SteelMag"
-	},
-	{
-		"abr": "ar-15cqbstock",
-		"price": 104,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_ARStyle_CQBStock"
-	},
-	{
-		"abr": "ar-15lightweightcombatstock",
-		"price": 88,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_ARStyle_LightStock"
-	},
-	{
-		"abr": "ar-15standardstock",
-		"price": 79,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_ARStyle_StandardStock"
-	},
-	{
-		"abr": "ar-15standardstock(tan)",
-		"price": 79,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_ARStyle_TanStandardStock"
-	},
-	{
-		"abr": "bhsight",
-		"price": 217,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_BHSight"
-	},
-	{
-		"abr": "hydroheliumionrifle",
-		"price": 3567,
-		"category": "Armas de longo alcance",
-		"defname": "AT_hydroheliumion_A"
-	},
-	{
-		"abr": "iarak103leshiy",
-		"price": 867,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_AK103Leshiy"
-	},
-	{
-		"abr": "iarak74mkalash",
-		"price": 742,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_AK74MKalash"
-	},
-	{
-		"abr": "iarakmclassic",
-		"price": 633,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_AKMClassic"
-	},
-	{
-		"abr": "iaraks-74u",
-		"price": 492,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_Gun_CR_AKS74U"
-	},
-	{
-		"abr": "iarcarbineii",
-		"price": 567,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_CarbineVTwo"
-	},
-	{
-		"abr": "iardesertii",
-		"price": 950,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_DesertVTwo"
-	},
-	{
-		"abr": "iardesertii",
-		"price": 750,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_Raider"
-	},
-	{
-		"abr": "iarm4a1",
-		"price": 558,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_Gun_AR_MFourAOne"
-	},
-	{
-		"abr": "iarmdr",
-		"price": 558,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_Gun_AR_MDR"
-	},
-	{
-		"abr": "iarmk18",
-		"price": 558,
-		"category": "TMC Assualt Rifles",
-		"defname": "TMC_Gun_AR_MKEightTeen"
-	},
-	{
-		"abr": "m203ubgl",
-		"price": 392,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_UBGL_AR"
-	},
-	{
-		"abr": "microdot",
-		"price": 126,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_MicroDot"
-	},
-	{
-		"abr": "mtscope",
-		"price": 274,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_MTScope"
-	},
-	{
-		"abr": "tmcaccessoriestable",
-		"price": 358,
-		"category": "Produção",
-		"defname": "TableTMC_Attachments"
-	},
-	{
-		"abr": "tmcweapontable",
-		"price": 358,
-		"category": "Produção",
-		"defname": "TableTMC"
-	},
-	{
-		"abr": "wave5.56arsuppressor",
-		"price": 148,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_Wave556ARSupressor"
-	},
-	{
-		"abr": "wave5.56arsuppressor(tan)",
-		"price": 148,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_WaveTan556ARSupressor"
-	},
-	{
-		"abr": "zenittype1stock",
-		"price": 185,
-		"category": "Weapons Part",
-		"defname": "TMC_Attachment_AKStyle_ZenitType2Stock"
-	},
-	{
 		"abr": "neurotrainerworkbench",
 		"price": 284,
 		"category": "Produção",
@@ -9962,73 +8630,73 @@
 	},
 	{
 		"abr": "peacekeeperdefender",
-		"price": 4667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperDefender"
 	},
 	{
 		"abr": "peacekeeperdefenderdesert",
-		"price": 4667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperDefenderDesert"
 	},
 	{
 		"abr": "peacekeeperdefenderforest",
-		"price": 4667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperDefenderForest"
 	},
 	{
 		"abr": "peacekeeperdefenderwinter",
-		"price": 4667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperDefenderWinter"
 	},
 	{
 		"abr": "peacekeeperenforcer",
-		"price": 7917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperEnforcer"
 	},
 	{
 		"abr": "peacekeeperenforcerdesert",
-		"price": 7917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperEnforcerDesert"
 	},
 	{
 		"abr": "peacekeeperenforcerforest",
-		"price": 7917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperEnforcerForest"
 	},
 	{
 		"abr": "peacekeeperenforcerwinter",
-		"price": 7917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperEnforcerWinter"
 	},
 	{
 		"abr": "peacekeepersentinel",
-		"price": 23333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperSentinel"
 	},
 	{
 		"abr": "peacekeepersentineldesert",
-		"price": 23333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperSentinelDesert"
 	},
 	{
 		"abr": "peacekeepersentinelforest",
-		"price": 23333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperSentinelForest"
 	},
 	{
 		"abr": "peacekeepersentinelwinter",
-		"price": 23333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RSPeacekeeperSentinelWinter"
 	},
@@ -10049,7 +8717,1153 @@
 		"price": 500,
 		"category": "Manufaturado",
 		"defname": "RSSRSProcessingChip"
-	}
+	},
+	{
+		"abr": "40mmcannon",
+		"price": 1333,
+		"category": "Armas de longo alcance",
+		"defname": "Mech40MMCannon"
+	},
+	{
+		"abr": "advandroidassemblykit",
+		"price": 3667,
+		"category": "Manufaturado",
+		"defname": "AndroidT2Kit"
+	},
+	{
+		"abr": "advancedbatterypack",
+		"price": 2833,
+		"category": "Android",
+		"defname": "NanowireBattery"
+	},
+	{
+		"abr": "advancedbio-reactor",
+		"price": 2833,
+		"category": "Android",
+		"defname": "HighPowerTransformer"
+	},
+	{
+		"abr": "advancedcoolantpump",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedCoolantInjector"
+	},
+	{
+		"abr": "advancedcounterweight",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvRearCounterweight"
+	},
+	{
+		"abr": "advancedhearingsensor",
+		"price": 2000,
+		"category": "Android",
+		"defname": "AdvHearingS"
+	},
+	{
+		"abr": "advancedheatsink",
+		"price": 2500,
+		"category": "Android",
+		"defname": "MultiLayerHeatsink"
+	},
+	{
+		"abr": "advancedlightsensor",
+		"price": 3000,
+		"category": "Android",
+		"defname": "MultiSpectrumEye"
+	},
+	{
+		"abr": "advancedmechanitestorage",
+		"price": 2500,
+		"category": "Android",
+		"defname": "NaniteStorageDevice"
+	},
+	{
+		"abr": "advancednanokit",
+		"price": 125,
+		"category": "Medicamento",
+		"defname": "ATPP_AndroidNanokitAdvanced"
+	},
+	{
+		"abr": "advancedpowerconverter",
+		"price": 2833,
+		"category": "Android",
+		"defname": "HighPowerConverter"
+	},
+	{
+		"abr": "advancedsmellingsensor",
+		"price": 1333,
+		"category": "Android",
+		"defname": "SmellingAdvS"
+	},
+	{
+		"abr": "agriculturalimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "FarmingMindImplant"
+	},
+	{
+		"abr": "androidassemblykit",
+		"price": 2250,
+		"category": "Itens",
+		"defname": "AndroidT1Kit"
+	},
+	{
+		"abr": "androidchargingstation",
+		"price": 1375,
+		"category": "Diversos",
+		"defname": "ATPP_ReloadStation"
+	},
+	{
+		"abr": "androidimplantsworkbench",
+		"price": 675,
+		"category": "Produção",
+		"defname": "AndroidOtherStuffTable"
+	},
+	{
+		"abr": "androidpartsworkbench",
+		"price": 417,
+		"category": "Produção",
+		"defname": "AndroidPartsTable"
+	},
+	{
+		"abr": "androidpod",
+		"price": 282,
+		"category": "Mobília",
+		"defname": "ATPP_AndroidPod"
+	},
+	{
+		"abr": "androidupgradestation",
+		"price": 1142,
+		"category": "Mobília",
+		"defname": "AndroidOperationBed"
+	},
+	{
+		"abr": "anti-mechrifle",
+		"price": 1500,
+		"category": "Armas de longo alcance",
+		"defname": "AntiMechRifle"
+	},
+	{
+		"abr": "archotecharchotechbio-reactor",
+		"price": 6667,
+		"category": "Android",
+		"defname": "MolecularDecomposer"
+	},
+	{
+		"abr": "archotechbatterypack",
+		"price": 5333,
+		"category": "Android",
+		"defname": "SecretBatteryPack"
+	},
+	{
+		"abr": "archotechcoolantpump",
+		"price": 6667,
+		"category": "Android",
+		"defname": "SecretCoolantPump"
+	},
+	{
+		"abr": "archotechhearingsensor",
+		"price": 3667,
+		"category": "Android",
+		"defname": "ArchHearingS"
+	},
+	{
+		"abr": "archotechheatsink",
+		"price": 7500,
+		"category": "Android",
+		"defname": "SecretHeatsink"
+	},
+	{
+		"abr": "archotechlightsensor",
+		"price": 7500,
+		"category": "Android",
+		"defname": "MDEye"
+	},
+	{
+		"abr": "archotechmechanitestorage",
+		"price": 7500,
+		"category": "Android",
+		"defname": "ArchotechNanites"
+	},
+	{
+		"abr": "archotechpowerconverter",
+		"price": 5833,
+		"category": "Android",
+		"defname": "QuantumConverter"
+	},
+	{
+		"abr": "archotechsmellingsensor",
+		"price": 3000,
+		"category": "Android",
+		"defname": "ArchSmellingS"
+	},
+	{
+		"abr": "artificialbraint1",
+		"price": 250,
+		"category": "Android",
+		"defname": "ATPP_T1ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint2",
+		"price": 417,
+		"category": "Android",
+		"defname": "ATPP_T2ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint3",
+		"price": 833,
+		"category": "Android",
+		"defname": "ATPP_T3ArtificialBrain"
+	},
+	{
+		"abr": "artificialbraint4",
+		"price": 1667,
+		"category": "Android",
+		"defname": "ATPP_T4ArtificialBrain"
+	},
+	{
+		"abr": "a-tierresurrectorrepairkit",
+		"price": 1333,
+		"category": "Itens",
+		"defname": "RepairKitResurrectorA"
+	},
+	{
+		"abr": "aureancornea",
+		"price": 5217,
+		"category": "Cyborg",
+		"defname": "ANN_AureanCornea"
+	},
+	{
+		"abr": "aurum",
+		"price": 6333,
+		"category": "Cyborg",
+		"defname": "ANN_Aurum"
+	},
+	{
+		"abr": "autonomicviruskiller",
+		"price": 2583,
+		"category": "Cyborg",
+		"defname": "ANN_Autonomicviruskiller"
+	},
+	{
+		"abr": "basiccounterweight",
+		"price": 1167,
+		"category": "Android",
+		"defname": "BasicRearCounterweight"
+	},
+	{
+		"abr": "basiclaborchip",
+		"price": 2000,
+		"category": "Android",
+		"defname": "BasicLaborMindImplant"
+	},
+	{
+		"abr": "basicnanokit",
+		"price": 17,
+		"category": "Medicamento",
+		"defname": "ATPP_AndroidNanokitBasic"
+	},
+	{
+		"abr": "basicreplacementarm",
+		"price": 833,
+		"category": "Android",
+		"defname": "BasicReplacementArm"
+	},
+	{
+		"abr": "basicreplacementleg",
+		"price": 833,
+		"category": "Android",
+		"defname": "BasicReplacementLeg"
+	},
+	{
+		"abr": "berserkerchip",
+		"price": 5250,
+		"category": "Cyborg",
+		"defname": "ANN_BerserkerChip"
+	},
+	{
+		"abr": "blackpearl",
+		"price": 2833,
+		"category": "Cyborg",
+		"defname": "ANN_BlackPearl"
+	},
+	{
+		"abr": "blueprintsimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "BuilderMindImplant"
+	},
+	{
+		"abr": "boomaliskegg(fert.)",
+		"price": 15,
+		"category": "Ovos (fert.)",
+		"defname": "GR_BoomaliskEggFertilized"
+	},
+	{
+		"abr": "brainwash",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_Brainwash"
+	},
+	{
+		"abr": "b-tierresurrectorrepairkit",
+		"price": 833,
+		"category": "Itens",
+		"defname": "RepairKitResurrectorB"
+	},
+	{
+		"abr": "carneden.solutionunit",
+		"price": 3,
+		"category": "Carne",
+		"defname": "Meat_RoboticCow"
+	},
+	{
+		"abr": "charismaimplant",
+		"price": 1667,
+		"category": "Android",
+		"defname": "CharismaMindImplant"
+	},
+	{
+		"abr": "chemicalcapsule",
+		"price": 17,
+		"category": "Manufaturado",
+		"defname": "ChemicalEgg"
+	},
+	{
+		"abr": "chemicalprocessingunit",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "AndroidChicken"
+	},
+	{
+		"abr": "combatai",
+		"price": 8125,
+		"category": "Cyborg",
+		"defname": "ANN_CombatAI"
+	},
+	{
+		"abr": "compositeframeplating",
+		"price": 1667,
+		"category": "Android",
+		"defname": "CompositePlating"
+	},
+	{
+		"abr": "compressionjaw",
+		"price": 2875,
+		"category": "Cyborg",
+		"defname": "ANN_CompressionJaw"
+	},
+	{
+		"abr": "compressionstomach",
+		"price": 3333,
+		"category": "Cyborg",
+		"defname": "ANN_CompressionStomach"
+	},
+	{
+		"abr": "coolingnanitesbank",
+		"price": 583,
+		"category": "Itens",
+		"defname": "ATPP_NanitesCoolingSerum"
+	},
+	{
+		"abr": "cpunanitesbank",
+		"price": 583,
+		"category": "Itens",
+		"defname": "ATPP_NanitesCPUSerum"
+	},
+	{
+		"abr": "crudebatterypack",
+		"price": 667,
+		"category": "Android",
+		"defname": "SmallBatteryPack"
+	},
+	{
+		"abr": "crudebio-reactor",
+		"price": 667,
+		"category": "Android",
+		"defname": "LowPowerTransformer"
+	},
+	{
+		"abr": "crudecoolantpump",
+		"price": 667,
+		"category": "Android",
+		"defname": "FlimsyCoolantPump"
+	},
+	{
+		"abr": "crudehearingsensor",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHearingS"
+	},
+	{
+		"abr": "crudeheatsink",
+		"price": 500,
+		"category": "Android",
+		"defname": "CrudeHeatsink"
+	},
+	{
+		"abr": "crudejaw",
+		"price": 1167,
+		"category": "Android",
+		"defname": "CrudeJawAndroid"
+	},
+	{
+		"abr": "crudelightsensor",
+		"price": 333,
+		"category": "Android",
+		"defname": "LightReceivingDiode"
+	},
+	{
+		"abr": "crudemechanitestorage",
+		"price": 667,
+		"category": "Android",
+		"defname": "TubeSealantTank"
+	},
+	{
+		"abr": "crudepowerconverter",
+		"price": 500,
+		"category": "Android",
+		"defname": "BasicDCConverter"
+	},
+	{
+		"abr": "crudesmellingsensor",
+		"price": 333,
+		"category": "Android",
+		"defname": "CrudeSmellingS"
+	},
+	{
+		"abr": "cuisineimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "CookingMindImplant"
+	},
+	{
+		"abr": "cyberneticarm",
+		"price": 10000,
+		"category": "Android",
+		"defname": "CyberReplacementArm"
+	},
+	{
+		"abr": "cyberneticjaw",
+		"price": 3333,
+		"category": "Android",
+		"defname": "AdvJawAndroid"
+	},
+	{
+		"abr": "cyberneticleg",
+		"price": 9167,
+		"category": "Android",
+		"defname": "CyberReplacementLeg"
+	},
+	{
+		"abr": "cyclopsvisor",
+		"price": 2458,
+		"category": "Cyborg",
+		"defname": "ANN_CyclopsVisor"
+	},
+	{
+		"abr": "dermalplating",
+		"price": 2333,
+		"category": "Cyborg",
+		"defname": "ANN_Dermalplating"
+	},
+	{
+		"abr": "elasticachilles",
+		"price": 1583,
+		"category": "Cyborg",
+		"defname": "ANN_ElasticAchilles"
+	},
+	{
+		"abr": "energetickidney",
+		"price": 2083,
+		"category": "Cyborg",
+		"defname": "ANN_EnergeticKidney"
+	},
+	{
+		"abr": "energeticlung",
+		"price": 2083,
+		"category": "Cyborg",
+		"defname": "ANN_EnergeticLung"
+	},
+	{
+		"abr": "energycore",
+		"price": 7875,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyCore"
+	},
+	{
+		"abr": "energyfist",
+		"price": 7292,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyFist"
+	},
+	{
+		"abr": "energylink",
+		"price": 7792,
+		"category": "Cyborg",
+		"defname": "ANN_EnergyLink"
+	},
+	{
+		"abr": "engineeringimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "MechanicMindImplant"
+	},
+	{
+		"abr": "evolvingaiupgrade",
+		"price": 5833,
+		"category": "Android",
+		"defname": "EvolvingImplant"
+	},
+	{
+		"abr": "exoskeletonarmor",
+		"price": 6458,
+		"category": "Cyborg",
+		"defname": "ANN_Exoskeleton"
+	},
+	{
+		"abr": "femaletx2kframe",
+		"price": 167,
+		"category": "Itens",
+		"defname": "ATPP_GS_TX2KFemale"
+	},
+	{
+		"abr": "femaletx3frame",
+		"price": 167,
+		"category": "Itens",
+		"defname": "ATPP_GS_TX3Female"
+	},
+	{
+		"abr": "femaletx4frame",
+		"price": 167,
+		"category": "Itens",
+		"defname": "ATPP_GS_TX4Female"
+	},
+	{
+		"abr": "fennicunit",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "AndroidFox"
+	},
+	{
+		"abr": "flashlight",
+		"price": 1083,
+		"category": "Cyborg",
+		"defname": "ANN_FlashLight"
+	},
+	{
+		"abr": "fractalenhancement",
+		"price": 1333,
+		"category": "Drogas",
+		"defname": "FractalPill"
+	},
+	{
+		"abr": "frameworknanitesbank",
+		"price": 583,
+		"category": "Itens",
+		"defname": "ATPP_NanitesFrameSerum"
+	},
+	{
+		"abr": "geologicalimplant",
+		"price": 3333,
+		"category": "Android",
+		"defname": "GeoMindImplant"
+	},
+	{
+		"abr": "greenthumb",
+		"price": 2250,
+		"category": "Cyborg",
+		"defname": "ANN_Greenthumb"
+	},
+	{
+		"abr": "handcannon",
+		"price": 1333,
+		"category": "Armas de longo alcance",
+		"defname": "MechHandCannon"
+	},
+	{
+		"abr": "hellunit",
+		"price": -10,
+		"category": "Animal",
+		"defname": "AT_HellUnit"
+	},
+	{
+		"abr": "highpowerarm",
+		"price": 2500,
+		"category": "Android",
+		"defname": "AdvancedReplacementArm"
+	},
+	{
+		"abr": "highpowerleg",
+		"price": 3000,
+		"category": "Android",
+		"defname": "AdvancedReplacementLeg"
+	},
+	{
+		"abr": "hoverfeet",
+		"price": 4583,
+		"category": "Cyborg",
+		"defname": "ANN_HoverFeet"
+	},
+	{
+		"abr": "hydraulicarm",
+		"price": 1167,
+		"category": "Android",
+		"defname": "HydraulicArm"
+	},
+	{
+		"abr": "hydraulicframe",
+		"price": 1667,
+		"category": "Android",
+		"defname": "HydraulicFrame"
+	},
+	{
+		"abr": "hydraulicleg",
+		"price": 1167,
+		"category": "Android",
+		"defname": "HydraulicLeg"
+	},
+	{
+		"abr": "hydraulicnanitesbank",
+		"price": 583,
+		"category": "Itens",
+		"defname": "ATPP_NanitesHydraulicSerum"
+	},
+	{
+		"abr": "i-100(hacking)",
+		"price": 1383,
+		"category": "Diversos",
+		"defname": "ATPP_I100Hacking"
+	},
+	{
+		"abr": "i-100(security)",
+		"price": 1017,
+		"category": "Diversos",
+		"defname": "ATPP_I100Security"
+	},
+	{
+		"abr": "i-100(skill)",
+		"price": 1383,
+		"category": "Diversos",
+		"defname": "ATPP_I100Skill"
+	},
+	{
+		"abr": "i-300(hacking)",
+		"price": 2892,
+		"category": "Diversos",
+		"defname": "ATPP_I300Hacking"
+	},
+	{
+		"abr": "i-300(security)",
+		"price": 2175,
+		"category": "Diversos",
+		"defname": "ATPP_I300Security"
+	},
+	{
+		"abr": "i-300(skill)",
+		"price": 2892,
+		"category": "Diversos",
+		"defname": "ATPP_I300Skill"
+	},
+	{
+		"abr": "i-500(hacking)",
+		"price": 5575,
+		"category": "Diversos",
+		"defname": "ATPP_I500Hacking"
+	},
+	{
+		"abr": "i-500(security)",
+		"price": 4117,
+		"category": "Diversos",
+		"defname": "ATPP_I500Security"
+	},
+	{
+		"abr": "i-500(skill)",
+		"price": 5575,
+		"category": "Diversos",
+		"defname": "ATPP_I500Skill"
+	},
+	{
+		"abr": "independenteye",
+		"price": 3167,
+		"category": "Cyborg",
+		"defname": "ANN_IndependentEye"
+	},
+	{
+		"abr": "intermediatenanokit",
+		"price": 30,
+		"category": "Medicamento",
+		"defname": "ATPP_AndroidNanokitIntermediate"
+	},
+	{
+		"abr": "k-9cyberneticunit",
+		"price": 14167,
+		"category": "Animal",
+		"defname": "AndroidDog"
+	},
+	{
+		"abr": "laserdetection",
+		"price": 1458,
+		"category": "Cyborg",
+		"defname": "ANN_LaserDetection"
+	},
+	{
+		"abr": "lionheart",
+		"price": 10250,
+		"category": "Cyborg",
+		"defname": "ANN_Lionheart"
+	},
+	{
+		"abr": "m.u.f.funit",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AndroidMuff"
+	},
+	{
+		"abr": "m7mechanisedinfantry",
+		"price": -10,
+		"category": "Animal",
+		"defname": "M7Mech"
+	},
+	{
+		"abr": "m7pod",
+		"price": 1483,
+		"category": "Mobília",
+		"defname": "ATPP_AndroidPodMech"
+	},
+	{
+		"abr": "maletx2kframe",
+		"price": 167,
+		"category": "Itens",
+		"defname": "ATPP_GS_TX2KMale"
+	},
+	{
+		"abr": "maletx3frame",
+		"price": 167,
+		"category": "Itens",
+		"defname": "ATPP_GS_TX3Male"
+	},
+	{
+		"abr": "maletx4frame",
+		"price": 167,
+		"category": "Itens",
+		"defname": "ATPP_GS_TX4Male"
+	},
+	{
+		"abr": "mastiffshotgun",
+		"price": 1333,
+		"category": "Armas de longo alcance",
+		"defname": "MechMastiffGun"
+	},
+	{
+		"abr": "mechaniteswarm",
+		"price": 33,
+		"category": "Drogas",
+		"defname": "MechSwarm"
+	},
+	{
+		"abr": "metallicwool",
+		"price": 8,
+		"category": "Têxteis",
+		"defname": "SteelWool"
+	},
+	{
+		"abr": "microscyther",
+		"price": 67,
+		"category": "Animal",
+		"defname": "MicroScyther"
+	},
+	{
+		"abr": "mindclearer",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_MindClearer"
+	},
+	{
+		"abr": "mindtwist",
+		"price": 1375,
+		"category": "Cyborg",
+		"defname": "ANN_Mindtwist"
+	},
+	{
+		"abr": "miningarm",
+		"price": 1667,
+		"category": "Android",
+		"defname": "MiningArm"
+	},
+	{
+		"abr": "mono-salvepill",
+		"price": 133,
+		"category": "Drogas",
+		"defname": "RegenPillAt"
+	},
+	{
+		"abr": "musclewire",
+		"price": 2458,
+		"category": "Cyborg",
+		"defname": "ANN_Musclewire"
+	},
+	{
+		"abr": "musechip",
+		"price": 6458,
+		"category": "Cyborg",
+		"defname": "ANN_MuseChip"
+	},
+	{
+		"abr": "n.solutionunit",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "RoboticCow"
+	},
+	{
+		"abr": "negotiatorimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "NegotiationMindImplant"
+	},
+	{
+		"abr": "neuralhighways",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SpeedMindImplant"
+	},
+	{
+		"abr": "neuroenhancer",
+		"price": 2000,
+		"category": "Cyborg",
+		"defname": "ANN_NeuroEnhancer"
+	},
+	{
+		"abr": "neuromodbooster",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_NeuromodBooster"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 13,
+		"category": "Produtos animais",
+		"defname": "NSolution"
+	},
+	{
+		"abr": "orbitalmech-falltargeter",
+		"price": 4000,
+		"category": "Armas de longo alcance",
+		"defname": "OrbitalTargeterMechFall"
+	},
+	{
+		"abr": "outerblade",
+		"price": 7292,
+		"category": "Cyborg",
+		"defname": "ANN_OuterBlade"
+	},
+	{
+		"abr": "overchargedmechanitepump",
+		"price": 14167,
+		"category": "Android",
+		"defname": "OLuciferiumPump"
+	},
+	{
+		"abr": "passiongiver",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_PassionGiver"
+	},
+	{
+		"abr": "phytominingunit",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "RoboticSheep"
+	},
+	{
+		"abr": "plasteelframecoverings",
+		"price": 1333,
+		"category": "Android",
+		"defname": "PlasteelPlating"
+	},
+	{
+		"abr": "polymerantifreeze",
+		"price": 17,
+		"category": "Drogas",
+		"defname": "Antifreeze"
+	},
+	{
+		"abr": "portablewpnreceiver",
+		"price": 2342,
+		"category": "Diversos",
+		"defname": "ARKPPP_WirelessPortablePowerReceptor"
+	},
+	{
+		"abr": "portalelwpnemitter",
+		"price": 4383,
+		"category": "Diversos",
+		"defname": "ARKPPP_LocalWirelessPortablePowerEmitter"
+	},
+	{
+		"abr": "positronicrewiring",
+		"price": 2667,
+		"category": "Android",
+		"defname": "PositronMindImplant"
+	},
+	{
+		"abr": "powerarms",
+		"price": 7917,
+		"category": "Cyborg",
+		"defname": "ANN_PowerArms"
+	},
+	{
+		"abr": "reconditioner",
+		"price": 1833,
+		"category": "Mind",
+		"defname": "ANN_Reconditioner"
+	},
+	{
+		"abr": "roboticplasmaclaw",
+		"price": 10000,
+		"category": "Android",
+		"defname": "RPlasmaClaw"
+	},
+	{
+		"abr": "roboticpowerclaw",
+		"price": 6667,
+		"category": "Android",
+		"defname": "RPowerClaw"
+	},
+	{
+		"abr": "roboticsproductioncasket",
+		"price": 900,
+		"category": "Produção",
+		"defname": "AndroidProductionVat"
+	},
+	{
+		"abr": "rxneuralchip",
+		"price": 250,
+		"category": "Android",
+		"defname": "ATPP_RXChip"
+	},
+	{
+		"abr": "sensoricearside",
+		"price": 1833,
+		"category": "Cyborg",
+		"defname": "ANN_SensoricEarside"
+	},
+	{
+		"abr": "shadowrunner",
+		"price": 2458,
+		"category": "Cyborg",
+		"defname": "ANN_Shadowrunner"
+	},
+	{
+		"abr": "skymindantennav1",
+		"price": 1400,
+		"category": "Diversos",
+		"defname": "ATPP_SkyMindLAN"
+	},
+	{
+		"abr": "skymindantennav2",
+		"price": 4967,
+		"category": "Diversos",
+		"defname": "ATPP_SkyMindWAN"
+	},
+	{
+		"abr": "skymindrelaytower",
+		"price": 1292,
+		"category": "Diversos",
+		"defname": "ATPP_SkyMindRelayTower"
+	},
+	{
+		"abr": "soldierimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SoldierMindImplant"
+	},
+	{
+		"abr": "steelframing",
+		"price": 833,
+		"category": "Android",
+		"defname": "SteelPlating"
+	},
+	{
+		"abr": "s-tierresurrectorrepairkit",
+		"price": 3333,
+		"category": "Itens",
+		"defname": "RepairKitResurrectorS"
+	},
+	{
+		"abr": "structuregel",
+		"price": 58,
+		"category": "Drogas",
+		"defname": "StructureGel"
+	},
+	{
+		"abr": "swarmshell",
+		"price": 292,
+		"category": "Munição de morteiro",
+		"defname": "Nanoswarm_shell"
+	},
+	{
+		"abr": "synchronizer",
+		"price": 1958,
+		"category": "Cyborg",
+		"defname": "ANN_Synchronizer"
+	},
+	{
+		"abr": "t1android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android1Tier"
+	},
+	{
+		"abr": "t2android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android2Tier"
+	},
+	{
+		"abr": "t3android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android3Tier"
+	},
+	{
+		"abr": "t4android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android4Tier"
+	},
+	{
+		"abr": "t5android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android5Tier"
+	},
+	{
+		"abr": "taintedskin",
+		"price": 13,
+		"category": "Couros",
+		"defname": "Tainted_Skin"
+	},
+	{
+		"abr": "tricorderimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SurgeonMindImplant"
+	},
+	{
+		"abr": "tx2android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ATPP_Android2TX"
+	},
+	{
+		"abr": "tx2iandroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ATPP_Android2ITX"
+	},
+	{
+		"abr": "tx2kandroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ATPP_Android2KTX"
+	},
+	{
+		"abr": "tx2kiandroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ATPP_Android2KITX"
+	},
+	{
+		"abr": "tx3android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ATPP_Android3TX"
+	},
+	{
+		"abr": "tx3iandroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ATPP_Android3ITX"
+	},
+	{
+		"abr": "tx4android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ATPP_Android4TX"
+	},
+	{
+		"abr": "tx4iandroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ATPP_Android4ITX"
+	},
+	{
+		"abr": "upgradecabinet",
+		"price": 717,
+		"category": "Mobília",
+		"defname": "AndroidOperationKit"
+	},
+	{
+		"abr": "upgradekit",
+		"price": 50,
+		"category": "Manufaturado",
+		"defname": "RepairKitAT"
+	},
+	{
+		"abr": "vx0neuralchip",
+		"price": 417,
+		"category": "Android",
+		"defname": "ATPP_VX0Chip"
+	},
+	{
+		"abr": "vx1neuralchip",
+		"price": 1333,
+		"category": "Android",
+		"defname": "ATPP_VX1Chip"
+	},
+	{
+		"abr": "vx2neuralchip",
+		"price": 3333,
+		"category": "Android",
+		"defname": "ATPP_VX2Chip"
+	},
+	{
+		"abr": "vx3neuralchip",
+		"price": 6667,
+		"category": "Android",
+		"defname": "ATPP_VX3Chip"
+	},
+	{
+		"abr": "zoologyimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "AnimalMindImplant"
+	},
+	{
+		"abr": "zoom",
+		"price": 2333,
+		"category": "Cyborg",
+		"defname": "ANN_Zoom"
+	},
+	{
+		"abr": "absorptiondish",
+		"price": 19125,
+		"category": "",
+		"defname": "ARKPPP_PowerBeamAbsorptionDish"
+	},
+	{
+		"abr": "adrelaytower",
+		"price": 1008,
+		"category": "",
+		"defname": "ARKPPP_ADRelayTower"
+	},
+	{
+		"abr": "advancedwpnemitter",
+		"price": 13250,
+		"category": "",
+		"defname": "ARKPPP_WirelessPowerEmitterAdvanced"
+	},
 	],
-	"total": 1675
+	"total": 1660
 }

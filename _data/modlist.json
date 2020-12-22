@@ -152,12 +152,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Ogliss",
-    "name": "Alien Vs Predator",
-    "steamId": "2034103876",
-    "version": "1.0.0"
-  },
-  {
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "754637870",
@@ -264,28 +258,6 @@
     "name": "Smart Speed"
   },
   {
-    "author": "[cn]nuclear",
-    "name": "Tinker's Construct"
-  },
-  {
-    "author": "Tittymcswaggy",
-    "name": "TMC Gun Accessories"
-  },
-  {
-    "author": "Tittymcswaggy",
-    "name": "TMC Modular Weapons"
-  },
-  {
-    "author": "Tittymcswaggy",
-    "name": "TMC Armory - Community Pack "
-  },
-  {
-    "author": "Roo",
-    "name": "Anty the war ant race",
-    "steamId": "2297729625",
-    "version": "1.0.7629.42224"
-  },
-  {
     "author": "Derek Bickley",
     "name": "[LTO] Texture Overhaul"
   },
@@ -338,18 +310,8 @@
     "name": "Terraform Rimworld"
   },
   {
-    "author": "Sarg",
-    "name": "Genetic Rim",
-    "steamId": "1113137502",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Daniledman",
     "name": "Cyber Fauna 1.2"
-  },
-  {
-    "author": "Sarg",
-    "name": "GeneticRim Alpha Animals Patch"
   },
   {
     "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
@@ -376,5 +338,57 @@
   {
     "author": "Jaxe",
     "name": "RimHUD"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Android Tiers++ Expansion"
+  },
+  {
+    "author": "Sarg",
+    "name": "Genetic Rim",
+    "steamId": "1113137502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "GeneticRim Alpha Animals Patch"
+  },
+  {
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
+  },
+  {
+    "author": "HohenHeizen",
+    "name": "Android tiers - Gynoids [VARIANT]"
+  },
+  {
+    "author": "HohenHeizen",
+    "name": "Android tiers - Fixes + Tweaks"
+  },
+  {
+    "author": "aRandomKiwi, CrackaJack",
+    "name": "Android tiers - TX Series"
+  },
+  {
+    "author": "malistaticy, descention",
+    "name": "Android Resurrection Kit (rebuild)"
+  },
+  {
+    "author": "Atlas",
+    "name": "Android tiers HellDrone-Extension "
+  },
+  {
+    "author": "Kikohi, Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Power++",
+    "steamId": "1771402217",
+    "version": "1.7.11"
   }
 ]

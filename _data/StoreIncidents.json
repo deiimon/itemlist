@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 150000,
 		"karmatype": "Good"
 	},
 	{
@@ -128,11 +128,11 @@
 	{
 		"abr": "meteor",
 		"price": 150,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "madanimal",
-		"price": 200,
+		"price": 200000,
 		"karmatype": "Bad"
 	},
 	{
@@ -162,7 +162,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -236,11 +236,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -287,7 +282,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 80000,
 		"karmatype": "Good"
 	},
 	{
@@ -381,5 +376,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 76
+	"total": 75
 }
