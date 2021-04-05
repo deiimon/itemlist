@@ -6,11 +6,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -102,7 +97,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150000,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -132,7 +127,7 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 200000,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
@@ -162,8 +157,8 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 3000,
-		"karmatype": "Good"
+		"price": 300,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -209,6 +204,11 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -261,6 +261,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "colono",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -279,11 +284,6 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 80000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -363,7 +363,7 @@
 	{
 		"abr": "removepassion",
 		"price": 5000,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "backpack",

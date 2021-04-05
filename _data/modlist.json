@@ -6,16 +6,102 @@
     "version": "1.0.4.0"
   },
   {
-    "author": "Taveron",
-    "name": "Increased Stack"
+    "author": "Haplo",
+    "name": "Misc. Robots"
+  },
+  {
+    "author": "Biscuit",
+    "name": "Archotech+",
+    "steamId": "2010967585",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Brunayla",
+    "name": "Neutrainer and AI Persona Core Crafting"
+  },
+  {
+    "author": "Wzrd",
+    "name": "WzrdCarry"
+  },
+  {
+    "author": "Teok25",
+    "name": "Archotech Expanded"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.3.811"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.3.2"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bradson",
+    "name": "Bradson's Main Button Icons for Vanilla Textures Expanded"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Desert"
+  },
+  {
+    "author": "Oskar Potocki, Erin, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Endangered",
+    "steamId": "2366589898",
+    "version": "1.0.0.0"
   },
   {
     "author": "EdB",
     "name": "EdB Prepare Carefully"
   },
   {
-    "author": "Ruyan",
-    "name": "Right Tool: Rebalanced"
+    "author": "balistafreak",
+    "name": "Stop, Drop, And Roll! [BAL]",
+    "steamId": "2362707956",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Biscuit",
+    "name": "Archotech+ (Continued)"
+  },
+  {
+    "author": "Daemon976",
+    "name": "Stuffed Security"
+  },
+  {
+    "author": "Derek Bickley",
+    "name": "[LTO] Texture Overhaul"
+  },
+  {
+    "author": "Taveron",
+    "name": "Increased Stack"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
   },
   {
     "author": "PinoChemicali",
@@ -26,22 +112,46 @@
     "name": "Growable Neutroamine"
   },
   {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry 1.1",
+    "steamId": "2007576583",
     "version": "1.0.0.0"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "8.0.1"
+    "author": "Teok25",
+    "name": "Archotech Expanded Prosthetics"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics"
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.7393.34550"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training"
+  },
+  {
+    "author": "Kang060302",
+    "name": "Better Pod Launcher (Continued)"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed"
+  },
+  {
+    "author": "zlj",
+    "name": "Static Quality Plus 1.2.4",
+    "steamId": "737358776",
+    "version": "1.2.4.0"
+  },
+  {
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!"
   },
   {
     "author": "hodlhodl",
@@ -56,228 +166,10 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "5.0.2.4"
-  },
-  {
-    "author": "InfinitySamurai",
-    "name": "RimConnect",
-    "steamId": "1880784338",
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots"
-  },
-  {
-    "author": "Alaestor",
-    "name": "Misc. Robots++"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
-  },
-  {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
-    "name": "Quarry 1.1",
-    "steamId": "2007576583",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions"
-  },
-  {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics"
-  },
-  {
-    "author": "NotooShabby",
-    "name": "Awesome Inventory",
-    "steamId": "2050289408",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Vectorial1024",
-    "name": "Elite Bionics Framework",
-    "steamId": "1665403571",
-    "version": "2.0.0.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "2.0.4.0"
-  },
-  {
-    "author": "fridgeBaron",
-    "name": "Immortals",
-    "steamId": "1984905966",
-    "version": "0.0.2.0"
-  },
-  {
-    "author": "Vectorial1024",
-    "name": "Elite Archotech"
-  },
-  {
-    "author": "Burnt",
-    "name": "Archotechnology and Archotech Bionics Expanded"
-  },
-  {
-    "author": "Teok25",
-    "name": "Archotech Expanded Prosthetics"
-  },
-  {
-    "author": "sulusdacor, james76543, Meltup",
-    "name": "Advanced Power Plus"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Hatti",
-    "name": "QualityBuilder",
-    "steamId": "754637870",
-    "version": "1.0.14"
-  },
-  {
-    "author": "Sandy",
-    "name": "RPG Style Inventory",
-    "steamId": "1561221991",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul"
-  },
-  {
-    "author": "Biscuit",
-    "name": "Archotech+",
-    "steamId": "2010967585",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "LadyElizabeth",
-    "name": "Pawn Badge - Brotherhood of Steel Ranks"
-  },
-  {
-    "author": "Updated by Saucy_Pigeon",
-    "name": "Pawn Badge Fan Fork",
-    "steamId": "2112663412",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.2.790"
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Trade Ships Drop Spot"
-  },
-  {
-    "author": "erdelf",
-    "name": "MinifyEverything",
-    "steamId": "872762753",
-    "version": "1.0.7393.34550"
-  },
-  {
-    "author": "Ron Popeil",
-    "name": "Don't Steal My Walls!",
-    "steamId": "2058688941",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Wzrd",
-    "name": "[WZRD] Carry Capacity (Continued)",
-    "steamId": "2237017954",
-    "version": "1.0.2.0"
-  },
-  {
-    "author": "Hob Took",
-    "name": "Mortar Accuracy",
-    "steamId": "1729446857",
-    "version": "1.3.2"
-  },
-  {
-    "author": "Roolo",
-    "name": "Dual Wield"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Training"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.2.0.4"
-  },
-  {
-    "author": "JangoD'soul",
-    "name": "[JDS] Simple Storage"
-  },
-  {
-    "author": "Netrve",
-    "name": "Netrve's DeepStorage GUI",
-    "steamId": "2169841018",
-    "version": "1.2.1.37"
-  },
-  {
-    "author": "EarthyTurtle, zhrocks",
-    "name": "Let's Trade!"
-  },
-  {
-    "author": "gguake",
-    "name": "Simple Search Bar"
-  },
-  {
-    "author": "Sarg",
-    "name": "Smart Speed"
-  },
-  {
-    "author": "Derek Bickley",
-    "name": "[LTO] Texture Overhaul"
-  },
-  {
-    "author": "Oskar Potocki, Helixien, Erin, Luizi",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Ykara (Updated for 1.1 by Ogliss)",
-    "name": "Harvest Everything!"
-  },
-  {
-    "author": "Smuffle",
-    "name": "Harvest Organs Post Mortem"
-  },
-  {
-    "author": "Kang060302",
-    "name": "Better Pod Launcher (Continued)"
   },
   {
     "author": "Jaxxa",
@@ -292,56 +184,90 @@
     "version": "2.4.0.0"
   },
   {
-    "author": "dhultgren",
-    "name": "Smarter Construction"
-  },
-  {
-    "author": "Epicguru (James B)",
-    "name": "What's That Mod",
-    "steamId": "2258431182",
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
     "version": "1.0.0.0"
   },
   {
-    "author": "Kapitan Oczywisty",
-    "name": "Change map edge limit"
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
   },
   {
-    "author": "void",
-    "name": "Terraform Rimworld"
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "8.0.1"
   },
   {
-    "author": "Daniledman",
-    "name": "Cyber Fauna 1.2"
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.2.0.7"
   },
   {
-    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.7.0"
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage"
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Compact Hediffs",
-    "steamId": "2031734067",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Brunayla",
-    "name": "Neutrainer and AI Persona Core Crafting"
-  },
-  {
-    "author": "Shakesthespeare, iforgotmysocks",
-    "name": "Rimsec Security",
-    "steamId": "2323762086",
-    "version": "1.0.0.0"
+    "author": "Netrve",
+    "name": "Netrve's DeepStorage GUI",
+    "steamId": "2169841018",
+    "version": "1.2.1.38"
   },
   {
     "author": "Jaxe",
     "name": "RimHUD"
   },
   {
+    "author": "Mehni",
+    "name": "Pick Up And Haul (Continued)"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Race to the Rim",
+    "steamId": "2325478123",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "RimBees - Genetic Rim Patch"
+  },
+  {
     "author": "aRandomKiwi",
-    "name": "Android Tiers++ Expansion"
+    "name": "Power++",
+    "steamId": "1771402217",
+    "version": "1.8.1"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.1.1.0"
+  },
+  {
+    "author": "[cn]nuclear",
+    "name": "Tinker's Construct"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg",
@@ -354,41 +280,101 @@
     "name": "GeneticRim Alpha Animals Patch"
   },
   {
-    "author": "Atlas, aRandomKiwi",
-    "name": "Android tiers",
-    "steamId": "1386412863",
-    "version": "2.0.2.0"
+    "author": "Helixien, Taranchuk, Alastair",
+    "name": "[HLX] ReGrowth - Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
   },
   {
-    "author": "HohenHeizen",
-    "name": "Android tiers - Gynoids [VARIANT]"
+    "author": "Helixien, Erin",
+    "name": "[HLX] ReGrowth - Extinct Animals Pack"
   },
   {
-    "author": "HohenHeizen",
-    "name": "Android tiers - Fixes + Tweaks"
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool"
   },
   {
-    "author": "aRandomKiwi, CrackaJack",
-    "name": "Android tiers - TX Series"
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.14"
   },
   {
-    "author": "malistaticy, descention",
-    "name": "Android Resurrection Kit (rebuild)"
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
   },
   {
-    "author": "Atlas",
-    "name": "Android tiers HellDrone-Extension "
+    "author": "Vectorial1024",
+    "name": "Elite Archotech"
   },
   {
-    "author": "Kikohi, Trunken",
-    "name": "Cybernetic Organism and Neural Network",
-    "steamId": "2045064990",
-    "version": "1.5.0.0"
+    "author": "fridgeBaron",
+    "name": "Immortals",
+    "steamId": "1984905966",
+    "version": "0.0.2.0"
   },
   {
-    "author": "aRandomKiwi",
-    "name": "Power++",
-    "steamId": "1771402217",
-    "version": "1.7.11"
+    "author": "NotooShabby",
+    "name": "Awesome Inventory",
+    "steamId": "2050289408",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "5.0.3.2"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot"
+  },
+  {
+    "author": "Ron Popeil",
+    "name": "Don't Steal My Walls!",
+    "steamId": "2058688941",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage - Refrigeration"
+  },
+  {
+    "author": "gguake",
+    "name": "Simple Search Bar"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction"
+  },
+  {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem"
+  },
+  {
+    "author": "xuvvy",
+    "name": "Organ Harvest Post Mortem No Debuff"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Compact Hediffs",
+    "steamId": "2031734067",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kapitan Oczywisty",
+    "name": "Change map edge limit"
+  },
+  {
+    "author": "Sarg",
+    "name": "RimBees",
+    "steamId": "1558161673",
+    "version": "1.0.0.0"
   }
 ]
